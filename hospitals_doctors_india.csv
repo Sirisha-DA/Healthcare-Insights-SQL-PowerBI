@@ -1,0 +1,2001 @@
+HospitalID,HospitalName,State,City,Type,Beds,ICU_Beds,Ventilators,DoctorID,DoctorName,Specialization,ExperienceYears
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D0111,Dr_Name_111,Pediatrician,15
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D0120,Dr_Name_120,Orthopedic Surgeon,4
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D0181,Dr_Name_181,General Physician,20
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D0197,Dr_Name_197,Neurologist,11
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D0759,Dr_Name_759,Neurologist,23
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D1026,Dr_Name_1026,Orthopedic Surgeon,13
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D1031,Dr_Name_1031,Oncologist,22
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D1058,Dr_Name_1058,Pediatrician,6
+H001,Hospital_1,Gujarat,Ahmedabad,Government,976,154,115,D1119,Dr_Name_1119,Cardiologist,18
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D0266,Dr_Name_266,Gastroenterologist,7
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D0666,Dr_Name_666,General Physician,28
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D0847,Dr_Name_847,Orthopedic Surgeon,22
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D0986,Dr_Name_986,Oncologist,15
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D1240,Dr_Name_1240,Pediatrician,28
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D1326,Dr_Name_1326,Oncologist,20
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D1381,Dr_Name_1381,Orthopedic Surgeon,9
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D1438,Dr_Name_1438,General Physician,22
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D1707,Dr_Name_1707,Pediatrician,27
+H002,Hospital_2,Maharashtra,Noida,Government,1091,80,84,D1761,Dr_Name_1761,Oncologist,23
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D0504,Dr_Name_504,Oncologist,15
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D0554,Dr_Name_554,Neurologist,8
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D0573,Dr_Name_573,Cardiologist,9
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D0896,Dr_Name_896,Cardiologist,14
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1183,Dr_Name_1183,Pediatrician,8
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1376,Dr_Name_1376,Gastroenterologist,27
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1408,Dr_Name_1408,Pediatrician,15
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1776,Dr_Name_1776,Pediatrician,19
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1797,Dr_Name_1797,Pulmonologist,15
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1856,Dr_Name_1856,General Physician,1
+H003,Hospital_3,Kerala,Ahmedabad,Private,983,54,99,D1919,Dr_Name_1919,Pulmonologist,2
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D0301,Dr_Name_301,Gastroenterologist,5
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D0467,Dr_Name_467,Pulmonologist,9
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D0541,Dr_Name_541,Gastroenterologist,11
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D0728,Dr_Name_728,Gastroenterologist,23
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D0947,Dr_Name_947,Neurologist,22
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D1551,Dr_Name_1551,Orthopedic Surgeon,19
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D1552,Dr_Name_1552,Orthopedic Surgeon,7
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D1846,Dr_Name_1846,Cardiologist,11
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D1854,Dr_Name_1854,Cardiologist,12
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D1902,Dr_Name_1902,Orthopedic Surgeon,24
+H004,Hospital_4,Gujarat,Hyderabad,Private,1473,141,122,D1945,Dr_Name_1945,Neurologist,25
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D0042,Dr_Name_42,Orthopedic Surgeon,9
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D0057,Dr_Name_57,Pulmonologist,25
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D0277,Dr_Name_277,Pulmonologist,14
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D0557,Dr_Name_557,Cardiologist,26
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D0558,Dr_Name_558,Pulmonologist,5
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D0598,Dr_Name_598,General Physician,8
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1006,Dr_Name_1006,Gastroenterologist,28
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1098,Dr_Name_1098,Pediatrician,27
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1364,Dr_Name_1364,Neurologist,17
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1416,Dr_Name_1416,Pulmonologist,22
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1529,Dr_Name_1529,Orthopedic Surgeon,28
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1673,Dr_Name_1673,Cardiologist,17
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1674,Dr_Name_1674,Cardiologist,2
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1796,Dr_Name_1796,Orthopedic Surgeon,15
+H005,Hospital_5,Karnataka,Mumbai,Government,146,45,148,D1941,Dr_Name_1941,Gastroenterologist,24
+H006,Hospital_6,Uttar Pradesh,Kochi,Government,966,79,12,D0556,Dr_Name_556,General Physician,26
+H006,Hospital_6,Uttar Pradesh,Kochi,Government,966,79,12,D0629,Dr_Name_629,General Physician,13
+H006,Hospital_6,Uttar Pradesh,Kochi,Government,966,79,12,D0754,Dr_Name_754,Oncologist,23
+H006,Hospital_6,Uttar Pradesh,Kochi,Government,966,79,12,D0873,Dr_Name_873,Oncologist,19
+H006,Hospital_6,Uttar Pradesh,Kochi,Government,966,79,12,D0965,Dr_Name_965,Orthopedic Surgeon,1
+H006,Hospital_6,Uttar Pradesh,Kochi,Government,966,79,12,D1448,Dr_Name_1448,Pulmonologist,3
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D0252,Dr_Name_252,General Physician,28
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D0254,Dr_Name_254,Oncologist,5
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D0438,Dr_Name_438,Oncologist,7
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D0650,Dr_Name_650,Orthopedic Surgeon,26
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D0715,Dr_Name_715,Pediatrician,22
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D0888,Dr_Name_888,Pulmonologist,21
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1247,Dr_Name_1247,Oncologist,1
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1265,Dr_Name_1265,Cardiologist,24
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1329,Dr_Name_1329,Pulmonologist,15
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1468,Dr_Name_1468,General Physician,17
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1547,Dr_Name_1547,Oncologist,8
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1569,Dr_Name_1569,Gastroenterologist,13
+H007,Hospital_7,Kerala,Noida,Government,922,168,136,D1995,Dr_Name_1995,Oncologist,21
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0209,Dr_Name_209,Oncologist,24
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0225,Dr_Name_225,Neurologist,29
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0236,Dr_Name_236,Oncologist,9
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0411,Dr_Name_411,General Physician,3
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0780,Dr_Name_780,General Physician,27
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0879,Dr_Name_879,Oncologist,23
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D0979,Dr_Name_979,Gastroenterologist,18
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1029,Dr_Name_1029,General Physician,26
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1091,Dr_Name_1091,Orthopedic Surgeon,15
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1094,Dr_Name_1094,Orthopedic Surgeon,24
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1369,Dr_Name_1369,Orthopedic Surgeon,5
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1387,Dr_Name_1387,General Physician,28
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1633,Dr_Name_1633,Cardiologist,10
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1649,Dr_Name_1649,Pulmonologist,10
+H008,Hospital_8,Kerala,Mumbai,Government,1035,28,108,D1677,Dr_Name_1677,Cardiologist,10
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D0295,Dr_Name_295,Oncologist,13
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D0562,Dr_Name_562,Cardiologist,26
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D0595,Dr_Name_595,Gastroenterologist,22
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D0803,Dr_Name_803,Pediatrician,15
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D0872,Dr_Name_872,Neurologist,3
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D1182,Dr_Name_1182,Cardiologist,21
+H009,Hospital_9,Gujarat,Chennai,Government,755,198,136,D1281,Dr_Name_1281,Pediatrician,8
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D0041,Dr_Name_41,Pediatrician,28
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D0215,Dr_Name_215,General Physician,23
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D0427,Dr_Name_427,Pulmonologist,15
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D0496,Dr_Name_496,General Physician,18
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1016,Dr_Name_1016,Orthopedic Surgeon,27
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1022,Dr_Name_1022,Cardiologist,17
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1283,Dr_Name_1283,Pediatrician,19
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1480,Dr_Name_1480,Cardiologist,18
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1531,Dr_Name_1531,General Physician,4
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1627,Dr_Name_1627,Pediatrician,18
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1702,Dr_Name_1702,Orthopedic Surgeon,4
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1718,Dr_Name_1718,Cardiologist,12
+H010,Hospital_10,Delhi,Kochi,Government,368,117,29,D1804,Dr_Name_1804,Neurologist,5
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0074,Dr_Name_74,Gastroenterologist,20
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0109,Dr_Name_109,General Physician,10
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0271,Dr_Name_271,Neurologist,4
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0355,Dr_Name_355,Oncologist,15
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0357,Dr_Name_357,Pediatrician,23
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0535,Dr_Name_535,Oncologist,28
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0584,Dr_Name_584,Oncologist,4
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0823,Dr_Name_823,Cardiologist,12
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D0829,Dr_Name_829,Pediatrician,28
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D1175,Dr_Name_1175,Pediatrician,7
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D1320,Dr_Name_1320,General Physician,17
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D1535,Dr_Name_1535,General Physician,13
+H011,Hospital_11,Karnataka,Ahmedabad,Private,469,191,100,D1717,Dr_Name_1717,Gastroenterologist,28
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0333,Dr_Name_333,Cardiologist,29
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0395,Dr_Name_395,Neurologist,23
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0407,Dr_Name_407,Cardiologist,15
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0419,Dr_Name_419,Pediatrician,2
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0668,Dr_Name_668,General Physician,14
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0699,Dr_Name_699,Gastroenterologist,10
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0770,Dr_Name_770,Oncologist,17
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0902,Dr_Name_902,Gastroenterologist,26
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0904,Dr_Name_904,Oncologist,27
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D0971,Dr_Name_971,Gastroenterologist,21
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1066,Dr_Name_1066,Oncologist,27
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1194,Dr_Name_1194,Neurologist,8
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1403,Dr_Name_1403,Orthopedic Surgeon,9
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1456,Dr_Name_1456,Oncologist,29
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1509,Dr_Name_1509,Pediatrician,29
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1742,Dr_Name_1742,Pulmonologist,7
+H012,Hospital_12,Gujarat,Ahmedabad,Government,735,176,97,D1819,Dr_Name_1819,Pediatrician,7
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D0481,Dr_Name_481,Orthopedic Surgeon,7
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D0575,Dr_Name_575,Cardiologist,6
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D0639,Dr_Name_639,Gastroenterologist,10
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D0671,Dr_Name_671,Oncologist,6
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D1138,Dr_Name_1138,General Physician,9
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D1359,Dr_Name_1359,Cardiologist,8
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D1588,Dr_Name_1588,Gastroenterologist,5
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D1709,Dr_Name_1709,Orthopedic Surgeon,27
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D1760,Dr_Name_1760,Pediatrician,27
+H013,Hospital_13,Karnataka,Kochi,Government,1229,100,65,D1812,Dr_Name_1812,Pediatrician,29
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0294,Dr_Name_294,General Physician,3
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0435,Dr_Name_435,Orthopedic Surgeon,24
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0451,Dr_Name_451,Oncologist,17
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0708,Dr_Name_708,Neurologist,17
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0901,Dr_Name_901,Orthopedic Surgeon,12
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0984,Dr_Name_984,Neurologist,15
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D0996,Dr_Name_996,Oncologist,27
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1019,Dr_Name_1019,Pulmonologist,13
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1470,Dr_Name_1470,Gastroenterologist,25
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1488,Dr_Name_1488,Pediatrician,7
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1572,Dr_Name_1572,Orthopedic Surgeon,6
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1820,Dr_Name_1820,Oncologist,4
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1855,Dr_Name_1855,Neurologist,17
+H014,Hospital_14,Karnataka,Ahmedabad,Private,756,99,126,D1974,Dr_Name_1974,Pulmonologist,22
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0025,Dr_Name_25,Neurologist,20
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0054,Dr_Name_54,Pediatrician,3
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0465,Dr_Name_465,Neurologist,22
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0732,Dr_Name_732,Pulmonologist,3
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0763,Dr_Name_763,Neurologist,5
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0772,Dr_Name_772,Pulmonologist,20
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D0797,Dr_Name_797,Neurologist,22
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D1199,Dr_Name_1199,General Physician,11
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D1219,Dr_Name_1219,General Physician,5
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D1282,Dr_Name_1282,Gastroenterologist,10
+H015,Hospital_15,Uttar Pradesh,Bangalore,Private,219,28,55,D1719,Dr_Name_1719,Gastroenterologist,13
+H016,Hospital_16,Kerala,Kochi,Private,930,48,25,D0428,Dr_Name_428,Cardiologist,13
+H016,Hospital_16,Kerala,Kochi,Private,930,48,25,D0472,Dr_Name_472,Oncologist,25
+H016,Hospital_16,Kerala,Kochi,Private,930,48,25,D0493,Dr_Name_493,Cardiologist,14
+H016,Hospital_16,Kerala,Kochi,Private,930,48,25,D1429,Dr_Name_1429,Orthopedic Surgeon,22
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0146,Dr_Name_146,Pulmonologist,18
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0318,Dr_Name_318,Cardiologist,23
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0380,Dr_Name_380,Pulmonologist,19
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0402,Dr_Name_402,Oncologist,24
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0450,Dr_Name_450,Orthopedic Surgeon,17
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0675,Dr_Name_675,Neurologist,27
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0698,Dr_Name_698,Orthopedic Surgeon,29
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D0800,Dr_Name_800,Pulmonologist,7
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D1555,Dr_Name_1555,Pulmonologist,25
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D1617,Dr_Name_1617,Neurologist,13
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D1659,Dr_Name_1659,Pulmonologist,3
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D1720,Dr_Name_1720,Neurologist,11
+H017,Hospital_17,Maharashtra,Mumbai,Private,1181,135,9,D1851,Dr_Name_1851,Cardiologist,26
+H018,Hospital_18,Uttar Pradesh,Kochi,Government,1469,182,96,D0196,Dr_Name_196,Pediatrician,1
+H018,Hospital_18,Uttar Pradesh,Kochi,Government,1469,182,96,D0483,Dr_Name_483,Neurologist,29
+H018,Hospital_18,Uttar Pradesh,Kochi,Government,1469,182,96,D0771,Dr_Name_771,Gastroenterologist,10
+H018,Hospital_18,Uttar Pradesh,Kochi,Government,1469,182,96,D0816,Dr_Name_816,Oncologist,18
+H018,Hospital_18,Uttar Pradesh,Kochi,Government,1469,182,96,D0973,Dr_Name_973,Oncologist,2
+H018,Hospital_18,Uttar Pradesh,Kochi,Government,1469,182,96,D1744,Dr_Name_1744,Gastroenterologist,20
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D0195,Dr_Name_195,Pediatrician,26
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D0396,Dr_Name_396,Orthopedic Surgeon,15
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D1148,Dr_Name_1148,Oncologist,9
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D1223,Dr_Name_1223,Orthopedic Surgeon,22
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D1297,Dr_Name_1297,Neurologist,12
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D1341,Dr_Name_1341,General Physician,5
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D1779,Dr_Name_1779,General Physician,13
+H019,Hospital_19,Uttar Pradesh,Noida,Government,840,150,65,D1884,Dr_Name_1884,Pediatrician,22
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D0276,Dr_Name_276,Orthopedic Surgeon,3
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D0564,Dr_Name_564,Pediatrician,17
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D0950,Dr_Name_950,Cardiologist,11
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1028,Dr_Name_1028,Cardiologist,28
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1055,Dr_Name_1055,General Physician,23
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1067,Dr_Name_1067,Gastroenterologist,29
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1479,Dr_Name_1479,Pulmonologist,27
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1517,Dr_Name_1517,Gastroenterologist,13
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1825,Dr_Name_1825,Orthopedic Surgeon,21
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1836,Dr_Name_1836,Neurologist,24
+H020,Hospital_20,Karnataka,Ahmedabad,Government,216,135,26,D1850,Dr_Name_1850,Pediatrician,7
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D0749,Dr_Name_749,Cardiologist,11
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D0815,Dr_Name_815,General Physician,20
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D0975,Dr_Name_975,Cardiologist,22
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1208,Dr_Name_1208,Gastroenterologist,28
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1221,Dr_Name_1221,Cardiologist,20
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1278,Dr_Name_1278,Cardiologist,9
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1611,Dr_Name_1611,Orthopedic Surgeon,1
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1630,Dr_Name_1630,Neurologist,9
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1662,Dr_Name_1662,Pulmonologist,2
+H021,Hospital_21,Tamil Nadu,Bangalore,Government,890,67,74,D1991,Dr_Name_1991,Oncologist,16
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D0300,Dr_Name_300,Gastroenterologist,4
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D0692,Dr_Name_692,Oncologist,27
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D0705,Dr_Name_705,Neurologist,16
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D0742,Dr_Name_742,Gastroenterologist,29
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D0893,Dr_Name_893,Gastroenterologist,10
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D1729,Dr_Name_1729,Pulmonologist,26
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D1757,Dr_Name_1757,Oncologist,10
+H022,Hospital_22,Kerala,Bangalore,Government,1250,157,5,D1770,Dr_Name_1770,Oncologist,16
+H023,Hospital_23,Delhi,Chennai,Government,1112,70,137,D0005,Dr_Name_5,Oncologist,22
+H023,Hospital_23,Delhi,Chennai,Government,1112,70,137,D0080,Dr_Name_80,Gastroenterologist,19
+H023,Hospital_23,Delhi,Chennai,Government,1112,70,137,D0655,Dr_Name_655,Neurologist,28
+H023,Hospital_23,Delhi,Chennai,Government,1112,70,137,D1152,Dr_Name_1152,Pulmonologist,12
+H023,Hospital_23,Delhi,Chennai,Government,1112,70,137,D1411,Dr_Name_1411,Gastroenterologist,20
+H023,Hospital_23,Delhi,Chennai,Government,1112,70,137,D1780,Dr_Name_1780,Neurologist,11
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D0286,Dr_Name_286,Oncologist,29
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D0769,Dr_Name_769,Gastroenterologist,22
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D0791,Dr_Name_791,Oncologist,9
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D0944,Dr_Name_944,Gastroenterologist,24
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D1338,Dr_Name_1338,Orthopedic Surgeon,24
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D1838,Dr_Name_1838,Pulmonologist,16
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D1862,Dr_Name_1862,Gastroenterologist,21
+H024,Hospital_24,Uttar Pradesh,Mumbai,Private,1181,136,16,D1950,Dr_Name_1950,Pulmonologist,12
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0138,Dr_Name_138,Pulmonologist,13
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0154,Dr_Name_154,Oncologist,25
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0298,Dr_Name_298,Pulmonologist,19
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0386,Dr_Name_386,Orthopedic Surgeon,19
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0417,Dr_Name_417,Cardiologist,29
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0597,Dr_Name_597,Neurologist,8
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0768,Dr_Name_768,Pediatrician,4
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D0906,Dr_Name_906,Neurologist,18
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D1216,Dr_Name_1216,Pulmonologist,2
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D1481,Dr_Name_1481,Pulmonologist,18
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D1483,Dr_Name_1483,General Physician,17
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D1498,Dr_Name_1498,Oncologist,3
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D1504,Dr_Name_1504,Pediatrician,16
+H025,Hospital_25,Maharashtra,New Delhi,Government,733,114,94,D1786,Dr_Name_1786,General Physician,20
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D0069,Dr_Name_69,Cardiologist,7
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D0352,Dr_Name_352,Pediatrician,22
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D0424,Dr_Name_424,General Physician,2
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D0432,Dr_Name_432,Cardiologist,29
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D0725,Dr_Name_725,Cardiologist,18
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D0978,Dr_Name_978,Gastroenterologist,16
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D1056,Dr_Name_1056,Pediatrician,8
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D1109,Dr_Name_1109,Cardiologist,7
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D1185,Dr_Name_1185,General Physician,24
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D1280,Dr_Name_1280,Neurologist,20
+H026,Hospital_26,Tamil Nadu,New Delhi,Private,612,176,50,D1601,Dr_Name_1601,General Physician,4
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D0071,Dr_Name_71,Pulmonologist,29
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D0327,Dr_Name_327,Oncologist,26
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D0743,Dr_Name_743,General Physician,29
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D0773,Dr_Name_773,Gastroenterologist,6
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D0782,Dr_Name_782,Oncologist,22
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D1230,Dr_Name_1230,Oncologist,20
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D1366,Dr_Name_1366,Oncologist,23
+H027,Hospital_27,Tamil Nadu,Kochi,Private,901,10,38,D1764,Dr_Name_1764,Cardiologist,20
+H028,Hospital_28,Delhi,Chennai,Government,1219,140,82,D0612,Dr_Name_612,Pulmonologist,26
+H028,Hospital_28,Delhi,Chennai,Government,1219,140,82,D1003,Dr_Name_1003,Gastroenterologist,12
+H028,Hospital_28,Delhi,Chennai,Government,1219,140,82,D1035,Dr_Name_1035,Oncologist,8
+H028,Hospital_28,Delhi,Chennai,Government,1219,140,82,D1631,Dr_Name_1631,Pulmonologist,9
+H028,Hospital_28,Delhi,Chennai,Government,1219,140,82,D1670,Dr_Name_1670,Pulmonologist,13
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0106,Dr_Name_106,Oncologist,19
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0161,Dr_Name_161,Pediatrician,9
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0189,Dr_Name_189,Gastroenterologist,2
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0263,Dr_Name_263,Gastroenterologist,13
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0304,Dr_Name_304,Orthopedic Surgeon,12
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0353,Dr_Name_353,Pediatrician,9
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0489,Dr_Name_489,Oncologist,15
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0589,Dr_Name_589,Neurologist,10
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0711,Dr_Name_711,Cardiologist,11
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0716,Dr_Name_716,General Physician,11
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0727,Dr_Name_727,Orthopedic Surgeon,4
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D0734,Dr_Name_734,Cardiologist,16
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D1057,Dr_Name_1057,Orthopedic Surgeon,25
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D1072,Dr_Name_1072,Neurologist,21
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D1625,Dr_Name_1625,General Physician,14
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D1759,Dr_Name_1759,Orthopedic Surgeon,5
+H029,Hospital_29,Uttar Pradesh,Hyderabad,Private,1241,101,49,D1762,Dr_Name_1762,Pediatrician,20
+H030,Hospital_30,Maharashtra,Kochi,Government,659,199,77,D0192,Dr_Name_192,General Physician,29
+H030,Hospital_30,Maharashtra,Kochi,Government,659,199,77,D1385,Dr_Name_1385,Cardiologist,1
+H030,Hospital_30,Maharashtra,Kochi,Government,659,199,77,D1410,Dr_Name_1410,General Physician,23
+H030,Hospital_30,Maharashtra,Kochi,Government,659,199,77,D1421,Dr_Name_1421,General Physician,1
+H030,Hospital_30,Maharashtra,Kochi,Government,659,199,77,D1782,Dr_Name_1782,Neurologist,29
+H030,Hospital_30,Maharashtra,Kochi,Government,659,199,77,D1878,Dr_Name_1878,Neurologist,3
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D0102,Dr_Name_102,Pediatrician,2
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D0329,Dr_Name_329,General Physician,16
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D0654,Dr_Name_654,Pulmonologist,1
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D1014,Dr_Name_1014,Cardiologist,7
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D1121,Dr_Name_1121,Orthopedic Surgeon,7
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D1394,Dr_Name_1394,Orthopedic Surgeon,26
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D1515,Dr_Name_1515,Pediatrician,3
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D1528,Dr_Name_1528,Neurologist,16
+H031,Hospital_31,Kerala,Chennai,Private,587,122,30,D1961,Dr_Name_1961,Cardiologist,5
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0187,Dr_Name_187,Gastroenterologist,11
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0214,Dr_Name_214,General Physician,1
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0221,Dr_Name_221,Gastroenterologist,14
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0242,Dr_Name_242,Pulmonologist,29
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0426,Dr_Name_426,Gastroenterologist,16
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0738,Dr_Name_738,Cardiologist,10
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0822,Dr_Name_822,General Physician,15
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D0917,Dr_Name_917,Oncologist,8
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1345,Dr_Name_1345,Oncologist,16
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1427,Dr_Name_1427,Gastroenterologist,15
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1510,Dr_Name_1510,Oncologist,17
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1714,Dr_Name_1714,General Physician,23
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1715,Dr_Name_1715,Oncologist,14
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1732,Dr_Name_1732,Oncologist,28
+H032,Hospital_32,Telangana,Mumbai,Government,1360,162,51,D1739,Dr_Name_1739,Orthopedic Surgeon,16
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0028,Dr_Name_28,Gastroenterologist,18
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0037,Dr_Name_37,Orthopedic Surgeon,2
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0370,Dr_Name_370,Pulmonologist,5
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0628,Dr_Name_628,Pulmonologist,1
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0718,Dr_Name_718,Pulmonologist,16
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0825,Dr_Name_825,Oncologist,22
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D0848,Dr_Name_848,Neurologist,20
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D1118,Dr_Name_1118,Cardiologist,22
+H033,Hospital_33,Maharashtra,Mumbai,Private,996,65,125,D1485,Dr_Name_1485,Cardiologist,14
+H034,Hospital_34,Delhi,Mumbai,Government,1395,170,60,D0317,Dr_Name_317,Pulmonologist,13
+H034,Hospital_34,Delhi,Mumbai,Government,1395,170,60,D0479,Dr_Name_479,Pediatrician,22
+H034,Hospital_34,Delhi,Mumbai,Government,1395,170,60,D1101,Dr_Name_1101,Orthopedic Surgeon,14
+H034,Hospital_34,Delhi,Mumbai,Government,1395,170,60,D1224,Dr_Name_1224,Pulmonologist,26
+H034,Hospital_34,Delhi,Mumbai,Government,1395,170,60,D1603,Dr_Name_1603,Orthopedic Surgeon,9
+H034,Hospital_34,Delhi,Mumbai,Government,1395,170,60,D1632,Dr_Name_1632,Neurologist,23
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D0136,Dr_Name_136,Cardiologist,4
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D0238,Dr_Name_238,Oncologist,24
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D0388,Dr_Name_388,Orthopedic Surgeon,2
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D0931,Dr_Name_931,General Physician,7
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1060,Dr_Name_1060,Neurologist,3
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1172,Dr_Name_1172,Pulmonologist,10
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1233,Dr_Name_1233,Gastroenterologist,9
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1328,Dr_Name_1328,Gastroenterologist,29
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1383,Dr_Name_1383,Orthopedic Surgeon,16
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1462,Dr_Name_1462,General Physician,3
+H035,Hospital_35,Tamil Nadu,Mumbai,Government,1312,175,98,D1930,Dr_Name_1930,Cardiologist,25
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D0068,Dr_Name_68,Gastroenterologist,23
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D0262,Dr_Name_262,Pulmonologist,25
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D0350,Dr_Name_350,Gastroenterologist,3
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D0371,Dr_Name_371,Pediatrician,6
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1217,Dr_Name_1217,Oncologist,6
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1261,Dr_Name_1261,Gastroenterologist,27
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1348,Dr_Name_1348,General Physician,23
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1391,Dr_Name_1391,Oncologist,12
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1432,Dr_Name_1432,Gastroenterologist,13
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1692,Dr_Name_1692,Neurologist,25
+H036,Hospital_36,Kerala,Mumbai,Government,803,126,111,D1964,Dr_Name_1964,Orthopedic Surgeon,14
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0097,Dr_Name_97,Pulmonologist,9
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0278,Dr_Name_278,Pulmonologist,6
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0307,Dr_Name_307,General Physician,24
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0459,Dr_Name_459,Oncologist,21
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0512,Dr_Name_512,Orthopedic Surgeon,17
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0525,Dr_Name_525,Pediatrician,3
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0609,Dr_Name_609,Pulmonologist,15
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0691,Dr_Name_691,Oncologist,16
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0924,Dr_Name_924,General Physician,11
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0946,Dr_Name_946,Orthopedic Surgeon,23
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D0988,Dr_Name_988,Pediatrician,23
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D1054,Dr_Name_1054,Gastroenterologist,8
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D1197,Dr_Name_1197,Pulmonologist,3
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D1293,Dr_Name_1293,Gastroenterologist,3
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D1315,Dr_Name_1315,Cardiologist,3
+H037,Hospital_37,Maharashtra,Chennai,Government,680,143,67,D1840,Dr_Name_1840,Cardiologist,14
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D0032,Dr_Name_32,Cardiologist,8
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D0047,Dr_Name_47,Oncologist,9
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D0077,Dr_Name_77,Orthopedic Surgeon,22
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D0141,Dr_Name_141,Oncologist,6
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D0602,Dr_Name_602,Oncologist,13
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D1080,Dr_Name_1080,Pulmonologist,10
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D1430,Dr_Name_1430,Oncologist,6
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D1680,Dr_Name_1680,Pulmonologist,27
+H038,Hospital_38,Telangana,Chennai,Government,889,67,52,D1844,Dr_Name_1844,General Physician,24
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0015,Dr_Name_15,Oncologist,22
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0361,Dr_Name_361,Orthopedic Surgeon,15
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0387,Dr_Name_387,Pediatrician,4
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0464,Dr_Name_464,General Physician,25
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0487,Dr_Name_487,Pediatrician,9
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0530,Dr_Name_530,General Physician,8
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0662,Dr_Name_662,Pediatrician,21
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0669,Dr_Name_669,Pediatrician,18
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0731,Dr_Name_731,Gastroenterologist,26
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D0966,Dr_Name_966,Oncologist,23
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D1074,Dr_Name_1074,Gastroenterologist,20
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D1251,Dr_Name_1251,Pediatrician,8
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D1741,Dr_Name_1741,General Physician,10
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D1783,Dr_Name_1783,Pediatrician,4
+H039,Hospital_39,Telangana,Bangalore,Private,960,53,65,D1947,Dr_Name_1947,Gastroenterologist,2
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0107,Dr_Name_107,Orthopedic Surgeon,26
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0296,Dr_Name_296,Gastroenterologist,15
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0356,Dr_Name_356,Gastroenterologist,5
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0379,Dr_Name_379,Neurologist,10
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0596,Dr_Name_596,General Physician,16
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0616,Dr_Name_616,Neurologist,19
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0624,Dr_Name_624,Orthopedic Surgeon,3
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0626,Dr_Name_626,Pulmonologist,3
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D0974,Dr_Name_974,Cardiologist,9
+H040,Hospital_40,Karnataka,Noida,Private,346,182,85,D1554,Dr_Name_1554,Pediatrician,29
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D0108,Dr_Name_108,Pediatrician,25
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D0315,Dr_Name_315,Neurologist,24
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D0832,Dr_Name_832,Oncologist,13
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D0877,Dr_Name_877,General Physician,17
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D0898,Dr_Name_898,General Physician,2
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D0991,Dr_Name_991,Orthopedic Surgeon,17
+H041,Hospital_41,Karnataka,New Delhi,Private,1199,169,30,D1954,Dr_Name_1954,General Physician,29
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D0023,Dr_Name_23,Cardiologist,29
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D0313,Dr_Name_313,Gastroenterologist,26
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D0385,Dr_Name_385,Oncologist,28
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D0982,Dr_Name_982,Pediatrician,8
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D1259,Dr_Name_1259,Gastroenterologist,6
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D1333,Dr_Name_1333,Pediatrician,20
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D1344,Dr_Name_1344,Gastroenterologist,11
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D1458,Dr_Name_1458,Gastroenterologist,13
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D1610,Dr_Name_1610,Pulmonologist,22
+H042,Hospital_42,Gujarat,Ahmedabad,Government,253,182,40,D1612,Dr_Name_1612,Gastroenterologist,20
+H043,Hospital_43,Delhi,Mumbai,Private,1096,70,5,D0070,Dr_Name_70,Pulmonologist,27
+H043,Hospital_43,Delhi,Mumbai,Private,1096,70,5,D1069,Dr_Name_1069,Oncologist,20
+H043,Hospital_43,Delhi,Mumbai,Private,1096,70,5,D1200,Dr_Name_1200,General Physician,24
+H043,Hospital_43,Delhi,Mumbai,Private,1096,70,5,D1524,Dr_Name_1524,Gastroenterologist,15
+H043,Hospital_43,Delhi,Mumbai,Private,1096,70,5,D1653,Dr_Name_1653,Oncologist,14
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D0398,Dr_Name_398,Pediatrician,19
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D0919,Dr_Name_919,Gastroenterologist,8
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D1043,Dr_Name_1043,Cardiologist,21
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D1198,Dr_Name_1198,General Physician,19
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D1373,Dr_Name_1373,Oncologist,23
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D1389,Dr_Name_1389,Gastroenterologist,11
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D1769,Dr_Name_1769,Pediatrician,22
+H044,Hospital_44,Uttar Pradesh,Hyderabad,Government,1209,56,12,D1982,Dr_Name_1982,Pediatrician,13
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D0456,Dr_Name_456,Neurologist,3
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D0617,Dr_Name_617,Pediatrician,26
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D0641,Dr_Name_641,Cardiologist,21
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D0652,Dr_Name_652,Cardiologist,20
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D0824,Dr_Name_824,Cardiologist,8
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D0907,Dr_Name_907,Pediatrician,6
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D1011,Dr_Name_1011,Neurologist,18
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D1085,Dr_Name_1085,Pulmonologist,13
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D1898,Dr_Name_1898,Cardiologist,10
+H045,Hospital_45,Maharashtra,Ahmedabad,Government,796,158,117,D1984,Dr_Name_1984,Neurologist,20
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0083,Dr_Name_83,Pediatrician,15
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0112,Dr_Name_112,Neurologist,27
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0244,Dr_Name_244,Neurologist,11
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0342,Dr_Name_342,Cardiologist,22
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0488,Dr_Name_488,Gastroenterologist,13
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0533,Dr_Name_533,Cardiologist,4
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0672,Dr_Name_672,Pulmonologist,25
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0796,Dr_Name_796,Pediatrician,10
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D0836,Dr_Name_836,General Physician,17
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D1116,Dr_Name_1116,Oncologist,23
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D1204,Dr_Name_1204,Oncologist,2
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D1340,Dr_Name_1340,Cardiologist,26
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D1750,Dr_Name_1750,Cardiologist,15
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D1807,Dr_Name_1807,Cardiologist,11
+H046,Hospital_46,Maharashtra,Chennai,Private,1408,89,103,D1931,Dr_Name_1931,Gastroenterologist,2
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0050,Dr_Name_50,Pulmonologist,17
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0059,Dr_Name_59,Pediatrician,16
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0081,Dr_Name_81,Orthopedic Surgeon,20
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0268,Dr_Name_268,Pediatrician,11
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0406,Dr_Name_406,Pediatrician,9
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0425,Dr_Name_425,General Physician,29
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0560,Dr_Name_560,Oncologist,13
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D0750,Dr_Name_750,Cardiologist,25
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1013,Dr_Name_1013,Pediatrician,23
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1111,Dr_Name_1111,Pediatrician,17
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1212,Dr_Name_1212,Oncologist,19
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1272,Dr_Name_1272,Oncologist,2
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1395,Dr_Name_1395,General Physician,13
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1895,Dr_Name_1895,Oncologist,29
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1904,Dr_Name_1904,Gastroenterologist,22
+H047,Hospital_47,Uttar Pradesh,Hyderabad,Private,1343,127,51,D1907,Dr_Name_1907,General Physician,5
+H048,Hospital_48,Gujarat,Hyderabad,Government,1192,173,131,D0637,Dr_Name_637,Orthopedic Surgeon,7
+H048,Hospital_48,Gujarat,Hyderabad,Government,1192,173,131,D1124,Dr_Name_1124,Orthopedic Surgeon,29
+H048,Hospital_48,Gujarat,Hyderabad,Government,1192,173,131,D1187,Dr_Name_1187,Gastroenterologist,22
+H048,Hospital_48,Gujarat,Hyderabad,Government,1192,173,131,D1196,Dr_Name_1196,Neurologist,17
+H048,Hospital_48,Gujarat,Hyderabad,Government,1192,173,131,D1624,Dr_Name_1624,Pulmonologist,23
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0167,Dr_Name_167,Pediatrician,17
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0179,Dr_Name_179,Pediatrician,23
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0190,Dr_Name_190,Neurologist,8
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0400,Dr_Name_400,Pediatrician,15
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0519,Dr_Name_519,Pediatrician,15
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0866,Dr_Name_866,Neurologist,16
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D0939,Dr_Name_939,General Physician,26
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1041,Dr_Name_1041,Cardiologist,24
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1171,Dr_Name_1171,Oncologist,8
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1290,Dr_Name_1290,Pulmonologist,16
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1308,Dr_Name_1308,General Physician,16
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1360,Dr_Name_1360,Gastroenterologist,18
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1457,Dr_Name_1457,Gastroenterologist,27
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1691,Dr_Name_1691,Oncologist,6
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1871,Dr_Name_1871,Pulmonologist,26
+H049,Hospital_49,Tamil Nadu,Hyderabad,Private,1170,156,60,D1937,Dr_Name_1937,Gastroenterologist,1
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D0707,Dr_Name_707,General Physician,13
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D0784,Dr_Name_784,Oncologist,24
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D0953,Dr_Name_953,Cardiologist,5
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D1071,Dr_Name_1071,Neurologist,9
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D1295,Dr_Name_1295,General Physician,9
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D1371,Dr_Name_1371,Cardiologist,13
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D1765,Dr_Name_1765,Oncologist,25
+H050,Hospital_50,Tamil Nadu,Bangalore,Government,1108,29,18,D1918,Dr_Name_1918,Pediatrician,16
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D0105,Dr_Name_105,Gastroenterologist,1
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D0233,Dr_Name_233,Pediatrician,1
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D0348,Dr_Name_348,Neurologist,23
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D0918,Dr_Name_918,Cardiologist,8
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D1218,Dr_Name_1218,Cardiologist,23
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D1671,Dr_Name_1671,Neurologist,7
+H051,Hospital_51,Gujarat,Chennai,Government,193,194,32,D1927,Dr_Name_1927,Pediatrician,26
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D0540,Dr_Name_540,Neurologist,27
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D1086,Dr_Name_1086,Pulmonologist,17
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D1229,Dr_Name_1229,Neurologist,13
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D1559,Dr_Name_1559,General Physician,6
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D1560,Dr_Name_1560,Neurologist,18
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D1598,Dr_Name_1598,Oncologist,11
+H052,Hospital_52,Tamil Nadu,Hyderabad,Government,1057,155,82,D1604,Dr_Name_1604,Neurologist,19
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D0011,Dr_Name_11,Pediatrician,4
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D0129,Dr_Name_129,Pulmonologist,7
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D0281,Dr_Name_281,Orthopedic Surgeon,1
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D0334,Dr_Name_334,Orthopedic Surgeon,9
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D0779,Dr_Name_779,Orthopedic Surgeon,18
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D0915,Dr_Name_915,Orthopedic Surgeon,5
+H053,Hospital_53,Karnataka,Mumbai,Government,1111,56,134,D1123,Dr_Name_1123,Orthopedic Surgeon,18
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D0231,Dr_Name_231,Pulmonologist,28
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D0345,Dr_Name_345,Neurologist,23
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D0362,Dr_Name_362,Pediatrician,16
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D0547,Dr_Name_547,Oncologist,2
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D0559,Dr_Name_559,Orthopedic Surgeon,16
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D0839,Dr_Name_839,Cardiologist,4
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D1158,Dr_Name_1158,Pulmonologist,15
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D1266,Dr_Name_1266,General Physician,12
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D1484,Dr_Name_1484,General Physician,25
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D1492,Dr_Name_1492,Neurologist,19
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D1818,Dr_Name_1818,Oncologist,10
+H054,Hospital_54,Maharashtra,Kochi,Government,552,58,113,D1841,Dr_Name_1841,Cardiologist,7
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0123,Dr_Name_123,Gastroenterologist,13
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0211,Dr_Name_211,Pediatrician,3
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0220,Dr_Name_220,Orthopedic Surgeon,19
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0250,Dr_Name_250,Orthopedic Surgeon,4
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0364,Dr_Name_364,General Physician,13
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0405,Dr_Name_405,Cardiologist,29
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0477,Dr_Name_477,Pediatrician,12
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D0910,Dr_Name_910,General Physician,20
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D1103,Dr_Name_1103,Pediatrician,8
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D1396,Dr_Name_1396,Orthopedic Surgeon,27
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D1401,Dr_Name_1401,Gastroenterologist,28
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D1447,Dr_Name_1447,Cardiologist,6
+H055,Hospital_55,Gujarat,Hyderabad,Private,1327,23,18,D1859,Dr_Name_1859,Orthopedic Surgeon,1
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D0369,Dr_Name_369,Pediatrician,2
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D0623,Dr_Name_623,Cardiologist,15
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D0926,Dr_Name_926,Cardiologist,8
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D1044,Dr_Name_1044,General Physician,3
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D1256,Dr_Name_1256,Cardiologist,16
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D1538,Dr_Name_1538,Gastroenterologist,22
+H056,Hospital_56,Maharashtra,Bangalore,Private,1011,152,60,D1829,Dr_Name_1829,Gastroenterologist,2
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D0119,Dr_Name_119,Cardiologist,22
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D0132,Dr_Name_132,Pediatrician,4
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D0227,Dr_Name_227,General Physician,11
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D0328,Dr_Name_328,Pediatrician,7
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D0404,Dr_Name_404,Gastroenterologist,11
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D0552,Dr_Name_552,Pediatrician,25
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D1032,Dr_Name_1032,Cardiologist,4
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D1848,Dr_Name_1848,Oncologist,21
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D1896,Dr_Name_1896,Orthopedic Surgeon,10
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D1951,Dr_Name_1951,Cardiologist,5
+H057,Hospital_57,Uttar Pradesh,Ahmedabad,Government,317,168,119,D1960,Dr_Name_1960,Neurologist,14
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D0653,Dr_Name_653,Pulmonologist,12
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D0724,Dr_Name_724,Orthopedic Surgeon,24
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D0760,Dr_Name_760,Neurologist,28
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D0892,Dr_Name_892,Oncologist,17
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D1375,Dr_Name_1375,Orthopedic Surgeon,24
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D1583,Dr_Name_1583,Neurologist,18
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D1628,Dr_Name_1628,Gastroenterologist,17
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D1663,Dr_Name_1663,Cardiologist,10
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D1817,Dr_Name_1817,Pediatrician,9
+H058,Hospital_58,Telangana,Chennai,Government,573,10,11,D1879,Dr_Name_1879,Cardiologist,12
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0290,Dr_Name_290,Orthopedic Surgeon,28
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0421,Dr_Name_421,Cardiologist,13
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0443,Dr_Name_443,General Physician,3
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0542,Dr_Name_542,Oncologist,2
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0635,Dr_Name_635,Oncologist,27
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0636,Dr_Name_636,Neurologist,4
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D0928,Dr_Name_928,Neurologist,24
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D1062,Dr_Name_1062,Neurologist,3
+H059,Hospital_59,Karnataka,Noida,Private,531,126,7,D1725,Dr_Name_1725,Pediatrician,4
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D0091,Dr_Name_91,Cardiologist,27
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D0610,Dr_Name_610,Orthopedic Surgeon,16
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D0689,Dr_Name_689,Orthopedic Surgeon,29
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D0775,Dr_Name_775,Gastroenterologist,14
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D0792,Dr_Name_792,General Physician,27
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D0993,Dr_Name_993,Pulmonologist,8
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1168,Dr_Name_1168,Orthopedic Surgeon,12
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1299,Dr_Name_1299,Pediatrician,15
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1361,Dr_Name_1361,General Physician,10
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1454,Dr_Name_1454,Neurologist,15
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1519,Dr_Name_1519,Oncologist,26
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1526,Dr_Name_1526,Oncologist,8
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1623,Dr_Name_1623,Oncologist,12
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1869,Dr_Name_1869,Orthopedic Surgeon,12
+H060,Hospital_60,Kerala,Bangalore,Private,440,63,115,D1957,Dr_Name_1957,Pulmonologist,21
+H061,Hospital_61,Karnataka,Hyderabad,Government,650,127,111,D0382,Dr_Name_382,Cardiologist,26
+H061,Hospital_61,Karnataka,Hyderabad,Government,650,127,111,D0526,Dr_Name_526,Pulmonologist,19
+H061,Hospital_61,Karnataka,Hyderabad,Government,650,127,111,D0566,Dr_Name_566,Neurologist,5
+H061,Hospital_61,Karnataka,Hyderabad,Government,650,127,111,D0868,Dr_Name_868,General Physician,21
+H061,Hospital_61,Karnataka,Hyderabad,Government,650,127,111,D1916,Dr_Name_1916,Pulmonologist,27
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0186,Dr_Name_186,Oncologist,5
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0408,Dr_Name_408,Gastroenterologist,1
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0491,Dr_Name_491,Pediatrician,11
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0536,Dr_Name_536,Cardiologist,20
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0571,Dr_Name_571,Gastroenterologist,7
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0618,Dr_Name_618,Orthopedic Surgeon,23
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0883,Dr_Name_883,Pulmonologist,21
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0885,Dr_Name_885,Pediatrician,20
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D0992,Dr_Name_992,Gastroenterologist,9
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D1568,Dr_Name_1568,Oncologist,11
+H062,Hospital_62,Gujarat,Chennai,Private,1412,12,22,D1578,Dr_Name_1578,Gastroenterologist,4
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0006,Dr_Name_6,Pulmonologist,5
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0121,Dr_Name_121,Pulmonologist,2
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0137,Dr_Name_137,Neurologist,9
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0162,Dr_Name_162,Gastroenterologist,27
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0176,Dr_Name_176,Pulmonologist,7
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0206,Dr_Name_206,Orthopedic Surgeon,4
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0532,Dr_Name_532,Cardiologist,23
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0546,Dr_Name_546,Oncologist,28
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0687,Dr_Name_687,Orthopedic Surgeon,1
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D0807,Dr_Name_807,Oncologist,22
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D1132,Dr_Name_1132,General Physician,23
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D1565,Dr_Name_1565,Cardiologist,7
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D1872,Dr_Name_1872,Orthopedic Surgeon,11
+H063,Hospital_63,Kerala,Kochi,Government,1377,153,42,D1892,Dr_Name_1892,General Physician,6
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D0343,Dr_Name_343,Pediatrician,5
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D0767,Dr_Name_767,Cardiologist,18
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D0813,Dr_Name_813,Oncologist,14
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D0817,Dr_Name_817,Neurologist,16
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D1033,Dr_Name_1033,Orthopedic Surgeon,28
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D1327,Dr_Name_1327,Pediatrician,6
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D1678,Dr_Name_1678,Cardiologist,18
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D1801,Dr_Name_1801,Oncologist,4
+H064,Hospital_64,Telangana,Hyderabad,Private,456,194,119,D1935,Dr_Name_1935,Oncologist,28
+H065,Hospital_65,Gujarat,Bangalore,Government,122,21,19,D0226,Dr_Name_226,Cardiologist,6
+H065,Hospital_65,Gujarat,Bangalore,Government,122,21,19,D0502,Dr_Name_502,Pediatrician,6
+H065,Hospital_65,Gujarat,Bangalore,Government,122,21,19,D1162,Dr_Name_1162,Neurologist,14
+H065,Hospital_65,Gujarat,Bangalore,Government,122,21,19,D1419,Dr_Name_1419,Oncologist,15
+H065,Hospital_65,Gujarat,Bangalore,Government,122,21,19,D1489,Dr_Name_1489,Cardiologist,12
+H065,Hospital_65,Gujarat,Bangalore,Government,122,21,19,D1587,Dr_Name_1587,General Physician,9
+H066,Hospital_66,Delhi,New Delhi,Private,621,83,123,D0040,Dr_Name_40,Orthopedic Surgeon,5
+H066,Hospital_66,Delhi,New Delhi,Private,621,83,123,D0961,Dr_Name_961,Orthopedic Surgeon,16
+H066,Hospital_66,Delhi,New Delhi,Private,621,83,123,D1004,Dr_Name_1004,Pediatrician,6
+H066,Hospital_66,Delhi,New Delhi,Private,621,83,123,D1435,Dr_Name_1435,Neurologist,15
+H066,Hospital_66,Delhi,New Delhi,Private,621,83,123,D1475,Dr_Name_1475,Orthopedic Surgeon,26
+H066,Hospital_66,Delhi,New Delhi,Private,621,83,123,D1809,Dr_Name_1809,Gastroenterologist,22
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D0019,Dr_Name_19,Orthopedic Surgeon,14
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D0228,Dr_Name_228,Cardiologist,25
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D0232,Dr_Name_232,Pediatrician,28
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D0587,Dr_Name_587,Pediatrician,21
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D0622,Dr_Name_622,Orthopedic Surgeon,25
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D1332,Dr_Name_1332,General Physician,14
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D1372,Dr_Name_1372,Pulmonologist,21
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D1441,Dr_Name_1441,Cardiologist,17
+H067,Hospital_67,Maharashtra,Mumbai,Government,1223,25,32,D1466,Dr_Name_1466,Cardiologist,22
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D0060,Dr_Name_60,Pediatrician,2
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D0094,Dr_Name_94,Orthopedic Surgeon,1
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D0509,Dr_Name_509,Gastroenterologist,28
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D0580,Dr_Name_580,Orthopedic Surgeon,23
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D0696,Dr_Name_696,Orthopedic Surgeon,29
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D1142,Dr_Name_1142,Gastroenterologist,21
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D1220,Dr_Name_1220,Neurologist,19
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D1294,Dr_Name_1294,Orthopedic Surgeon,12
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D1342,Dr_Name_1342,Pediatrician,6
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D1506,Dr_Name_1506,Pulmonologist,8
+H068,Hospital_68,Telangana,Noida,Private,901,111,43,D1694,Dr_Name_1694,Pulmonologist,11
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D0072,Dr_Name_72,Pulmonologist,15
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D0368,Dr_Name_368,Gastroenterologist,21
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D0989,Dr_Name_989,Oncologist,7
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D1063,Dr_Name_1063,Pediatrician,27
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D1125,Dr_Name_1125,Gastroenterologist,14
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D1306,Dr_Name_1306,Pediatrician,4
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D1643,Dr_Name_1643,Pediatrician,2
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D1915,Dr_Name_1915,Pediatrician,11
+H069,Hospital_69,Maharashtra,Ahmedabad,Private,1303,161,21,D1933,Dr_Name_1933,Oncologist,20
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D0309,Dr_Name_309,Cardiologist,23
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D0683,Dr_Name_683,General Physician,18
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D0999,Dr_Name_999,Neurologist,13
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1203,Dr_Name_1203,Neurologist,19
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1356,Dr_Name_1356,General Physician,8
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1378,Dr_Name_1378,Oncologist,6
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1828,Dr_Name_1828,Pulmonologist,21
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1943,Dr_Name_1943,Pediatrician,27
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1953,Dr_Name_1953,Orthopedic Surgeon,20
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1981,Dr_Name_1981,General Physician,1
+H070,Hospital_70,Tamil Nadu,Bangalore,Government,1346,165,90,D1996,Dr_Name_1996,Pediatrician,8
+H071,Hospital_71,Delhi,Chennai,Private,861,126,130,D0180,Dr_Name_180,Cardiologist,15
+H071,Hospital_71,Delhi,Chennai,Private,861,126,130,D1254,Dr_Name_1254,General Physician,8
+H071,Hospital_71,Delhi,Chennai,Private,861,126,130,D1853,Dr_Name_1853,Orthopedic Surgeon,18
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0098,Dr_Name_98,Orthopedic Surgeon,27
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0230,Dr_Name_230,Pulmonologist,17
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0442,Dr_Name_442,Pediatrician,17
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0543,Dr_Name_543,General Physician,17
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0603,Dr_Name_603,Oncologist,27
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0774,Dr_Name_774,General Physician,25
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0811,Dr_Name_811,Pulmonologist,29
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0814,Dr_Name_814,Pulmonologist,18
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D0880,Dr_Name_880,Cardiologist,25
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D1114,Dr_Name_1114,Oncologist,29
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D1186,Dr_Name_1186,Cardiologist,6
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D1288,Dr_Name_1288,Oncologist,26
+H072,Hospital_72,Delhi,Noida,Government,541,17,48,D1793,Dr_Name_1793,Cardiologist,6
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D0378,Dr_Name_378,Neurologist,11
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D0517,Dr_Name_517,Pediatrician,13
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D0579,Dr_Name_579,Neurologist,16
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D0874,Dr_Name_874,Orthopedic Surgeon,20
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1133,Dr_Name_1133,General Physician,17
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1139,Dr_Name_1139,Pediatrician,20
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1352,Dr_Name_1352,Pediatrician,21
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1471,Dr_Name_1471,Pediatrician,2
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1543,Dr_Name_1543,Pediatrician,9
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1687,Dr_Name_1687,Gastroenterologist,21
+H073,Hospital_73,Telangana,Noida,Private,868,131,29,D1983,Dr_Name_1983,Oncologist,4
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D0044,Dr_Name_44,Cardiologist,18
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D0075,Dr_Name_75,Neurologist,27
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D0253,Dr_Name_253,Cardiologist,11
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D0403,Dr_Name_403,General Physician,8
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D0550,Dr_Name_550,Pediatrician,15
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D0686,Dr_Name_686,Cardiologist,11
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D1179,Dr_Name_1179,Gastroenterologist,26
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D1250,Dr_Name_1250,Oncologist,16
+H074,Hospital_74,Delhi,Noida,Government,1115,101,149,D1939,Dr_Name_1939,Gastroenterologist,28
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D0140,Dr_Name_140,Neurologist,10
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D0308,Dr_Name_308,General Physician,10
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D0736,Dr_Name_736,General Physician,21
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D1155,Dr_Name_1155,Orthopedic Surgeon,2
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D1440,Dr_Name_1440,Cardiologist,13
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D1826,Dr_Name_1826,Orthopedic Surgeon,29
+H075,Hospital_75,Kerala,Hyderabad,Private,1448,173,17,D1910,Dr_Name_1910,Neurologist,13
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D0061,Dr_Name_61,Pulmonologist,28
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D0322,Dr_Name_322,Orthopedic Surgeon,4
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D0593,Dr_Name_593,Oncologist,13
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D0834,Dr_Name_834,Gastroenterologist,2
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D0938,Dr_Name_938,Pulmonologist,5
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D1023,Dr_Name_1023,Gastroenterologist,5
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D1113,Dr_Name_1113,Oncologist,25
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D1163,Dr_Name_1163,Cardiologist,25
+H076,Hospital_76,Delhi,Mumbai,Government,615,99,29,D1877,Dr_Name_1877,Pulmonologist,13
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D0537,Dr_Name_537,Neurologist,11
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D0667,Dr_Name_667,Neurologist,24
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D0851,Dr_Name_851,Pulmonologist,8
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D1140,Dr_Name_1140,General Physician,10
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D1242,Dr_Name_1242,Oncologist,14
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D1323,Dr_Name_1323,Pulmonologist,21
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D1393,Dr_Name_1393,Oncologist,7
+H077,Hospital_77,Maharashtra,Hyderabad,Private,1139,145,72,D1650,Dr_Name_1650,Pediatrician,14
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D0198,Dr_Name_198,Gastroenterologist,16
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D0241,Dr_Name_241,Pediatrician,2
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D0985,Dr_Name_985,Oncologist,10
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1052,Dr_Name_1052,Pediatrician,29
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1225,Dr_Name_1225,Orthopedic Surgeon,17
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1322,Dr_Name_1322,Oncologist,22
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1516,Dr_Name_1516,Oncologist,4
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1695,Dr_Name_1695,Neurologist,15
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1726,Dr_Name_1726,Cardiologist,21
+H078,Hospital_78,Maharashtra,Chennai,Government,891,195,142,D1908,Dr_Name_1908,Pulmonologist,22
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D0436,Dr_Name_436,Orthopedic Surgeon,26
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D0690,Dr_Name_690,Pulmonologist,6
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D0721,Dr_Name_721,Neurologist,22
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D0781,Dr_Name_781,Cardiologist,23
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D0962,Dr_Name_962,Orthopedic Surgeon,28
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D1505,Dr_Name_1505,Pediatrician,12
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D1580,Dr_Name_1580,Orthopedic Surgeon,23
+H079,Hospital_79,Gujarat,Hyderabad,Private,435,69,71,D1637,Dr_Name_1637,Orthopedic Surgeon,5
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D0409,Dr_Name_409,Cardiologist,1
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D0631,Dr_Name_631,Cardiologist,21
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D0838,Dr_Name_838,Oncologist,2
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1020,Dr_Name_1020,Gastroenterologist,13
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1087,Dr_Name_1087,Pulmonologist,22
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1211,Dr_Name_1211,Neurologist,6
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1467,Dr_Name_1467,Orthopedic Surgeon,26
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1491,Dr_Name_1491,Pediatrician,15
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1548,Dr_Name_1548,Cardiologist,7
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1857,Dr_Name_1857,Cardiologist,11
+H080,Hospital_80,Maharashtra,New Delhi,Government,357,187,113,D1977,Dr_Name_1977,Gastroenterologist,29
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D0169,Dr_Name_169,Pulmonologist,25
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D0287,Dr_Name_287,General Physician,5
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D0373,Dr_Name_373,Pediatrician,18
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D0413,Dr_Name_413,Pediatrician,8
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D0614,Dr_Name_614,Gastroenterologist,18
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D0745,Dr_Name_745,Orthopedic Surgeon,11
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D1683,Dr_Name_1683,Cardiologist,17
+H081,Hospital_81,Gujarat,Mumbai,Government,596,37,115,D1925,Dr_Name_1925,Oncologist,9
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D0265,Dr_Name_265,General Physician,22
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D0444,Dr_Name_444,Neurologist,7
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D0570,Dr_Name_570,Cardiologist,27
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D0664,Dr_Name_664,Cardiologist,15
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D0818,Dr_Name_818,Orthopedic Surgeon,1
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D0920,Dr_Name_920,General Physician,12
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D1150,Dr_Name_1150,Orthopedic Surgeon,15
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D1460,Dr_Name_1460,Orthopedic Surgeon,21
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D1590,Dr_Name_1590,Pediatrician,20
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D1606,Dr_Name_1606,Gastroenterologist,22
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D1865,Dr_Name_1865,Orthopedic Surgeon,2
+H082,Hospital_82,Maharashtra,Mumbai,Government,995,110,115,D1988,Dr_Name_1988,Cardiologist,23
+H083,Hospital_83,Kerala,Chennai,Private,259,50,38,D0410,Dr_Name_410,Gastroenterologist,19
+H083,Hospital_83,Kerala,Chennai,Private,259,50,38,D1153,Dr_Name_1153,General Physician,3
+H083,Hospital_83,Kerala,Chennai,Private,259,50,38,D1539,Dr_Name_1539,Gastroenterologist,8
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0170,Dr_Name_170,Orthopedic Surgeon,9
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0500,Dr_Name_500,General Physician,8
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0741,Dr_Name_741,Pulmonologist,4
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0753,Dr_Name_753,Neurologist,19
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0802,Dr_Name_802,Pulmonologist,1
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0884,Dr_Name_884,Gastroenterologist,14
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0889,Dr_Name_889,Neurologist,23
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D0997,Dr_Name_997,Pediatrician,21
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D1081,Dr_Name_1081,General Physician,18
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D1262,Dr_Name_1262,Pediatrician,9
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D1423,Dr_Name_1423,General Physician,10
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D1962,Dr_Name_1962,Oncologist,18
+H084,Hospital_84,Uttar Pradesh,Ahmedabad,Government,951,164,115,D1987,Dr_Name_1987,General Physician,3
+H085,Hospital_85,Gujarat,New Delhi,Private,789,154,12,D0257,Dr_Name_257,Pediatrician,18
+H085,Hospital_85,Gujarat,New Delhi,Private,789,154,12,D0312,Dr_Name_312,Orthopedic Surgeon,29
+H085,Hospital_85,Gujarat,New Delhi,Private,789,154,12,D1092,Dr_Name_1092,General Physician,13
+H085,Hospital_85,Gujarat,New Delhi,Private,789,154,12,D1184,Dr_Name_1184,Oncologist,23
+H085,Hospital_85,Gujarat,New Delhi,Private,789,154,12,D1330,Dr_Name_1330,Pediatrician,26
+H085,Hospital_85,Gujarat,New Delhi,Private,789,154,12,D1437,Dr_Name_1437,Gastroenterologist,17
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D0039,Dr_Name_39,Cardiologist,26
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D0175,Dr_Name_175,Neurologist,8
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D0284,Dr_Name_284,Pediatrician,21
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D0326,Dr_Name_326,Oncologist,10
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D0433,Dr_Name_433,Gastroenterologist,29
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D0840,Dr_Name_840,Cardiologist,22
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1099,Dr_Name_1099,Gastroenterologist,13
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1377,Dr_Name_1377,Gastroenterologist,13
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1453,Dr_Name_1453,Neurologist,29
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1574,Dr_Name_1574,Oncologist,26
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1754,Dr_Name_1754,Gastroenterologist,20
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1815,Dr_Name_1815,Gastroenterologist,13
+H086,Hospital_86,Karnataka,Bangalore,Government,479,170,117,D1970,Dr_Name_1970,Gastroenterologist,6
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D0219,Dr_Name_219,Neurologist,8
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D0323,Dr_Name_323,Oncologist,14
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D0903,Dr_Name_903,Neurologist,2
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D0981,Dr_Name_981,Orthopedic Surgeon,12
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D1202,Dr_Name_1202,Orthopedic Surgeon,21
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D1640,Dr_Name_1640,General Physician,23
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D1647,Dr_Name_1647,Orthopedic Surgeon,15
+H087,Hospital_87,Tamil Nadu,Hyderabad,Private,1056,166,87,D1652,Dr_Name_1652,Pulmonologist,25
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0158,Dr_Name_158,Orthopedic Surgeon,4
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0240,Dr_Name_240,General Physician,21
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0521,Dr_Name_521,Pulmonologist,29
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0534,Dr_Name_534,Oncologist,27
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0680,Dr_Name_680,Cardiologist,8
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0810,Dr_Name_810,Oncologist,17
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D0831,Dr_Name_831,Cardiologist,26
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D1157,Dr_Name_1157,Pulmonologist,9
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D1641,Dr_Name_1641,General Physician,25
+H088,Hospital_88,Telangana,Kochi,Government,790,150,46,D1768,Dr_Name_1768,Pediatrician,2
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D0418,Dr_Name_418,Neurologist,18
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D0578,Dr_Name_578,Neurologist,17
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D0642,Dr_Name_642,Cardiologist,15
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1002,Dr_Name_1002,Pulmonologist,12
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1115,Dr_Name_1115,Neurologist,16
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1136,Dr_Name_1136,Pediatrician,20
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1160,Dr_Name_1160,Pulmonologist,1
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1245,Dr_Name_1245,Neurologist,27
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1301,Dr_Name_1301,General Physician,23
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1532,Dr_Name_1532,Pediatrician,13
+H089,Hospital_89,Maharashtra,Hyderabad,Private,1391,55,105,D1756,Dr_Name_1756,Orthopedic Surgeon,13
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D0082,Dr_Name_82,Gastroenterologist,3
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D0115,Dr_Name_115,Gastroenterologist,16
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D0139,Dr_Name_139,Neurologist,14
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D0606,Dr_Name_606,Gastroenterologist,10
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D0859,Dr_Name_859,Orthopedic Surgeon,11
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D1127,Dr_Name_1127,Pulmonologist,13
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D1244,Dr_Name_1244,Neurologist,24
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D1816,Dr_Name_1816,Gastroenterologist,10
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D1913,Dr_Name_1913,Neurologist,20
+H090,Hospital_90,Delhi,Noida,Private,1291,44,10,D1944,Dr_Name_1944,Neurologist,2
+H091,Hospital_91,Uttar Pradesh,Hyderabad,Government,1166,143,30,D0145,Dr_Name_145,General Physician,10
+H091,Hospital_91,Uttar Pradesh,Hyderabad,Government,1166,143,30,D0627,Dr_Name_627,Pulmonologist,29
+H091,Hospital_91,Uttar Pradesh,Hyderabad,Government,1166,143,30,D1292,Dr_Name_1292,Gastroenterologist,15
+H091,Hospital_91,Uttar Pradesh,Hyderabad,Government,1166,143,30,D1476,Dr_Name_1476,Cardiologist,20
+H091,Hospital_91,Uttar Pradesh,Hyderabad,Government,1166,143,30,D1706,Dr_Name_1706,Oncologist,26
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D0101,Dr_Name_101,General Physician,28
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D0235,Dr_Name_235,Neurologist,5
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D0633,Dr_Name_633,General Physician,14
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D0748,Dr_Name_748,Gastroenterologist,29
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D0841,Dr_Name_841,Oncologist,26
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D0882,Dr_Name_882,General Physician,15
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D1412,Dr_Name_1412,Neurologist,25
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D1513,Dr_Name_1513,Neurologist,18
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D1571,Dr_Name_1571,Pulmonologist,5
+H092,Hospital_92,Maharashtra,Bangalore,Private,384,91,68,D1758,Dr_Name_1758,Oncologist,21
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0224,Dr_Name_224,Cardiologist,9
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0468,Dr_Name_468,Gastroenterologist,24
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0545,Dr_Name_545,Cardiologist,28
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0619,Dr_Name_619,Pediatrician,18
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0778,Dr_Name_778,Cardiologist,29
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0787,Dr_Name_787,Gastroenterologist,21
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D0933,Dr_Name_933,General Physician,17
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D1021,Dr_Name_1021,Pulmonologist,17
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D1169,Dr_Name_1169,Cardiologist,1
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D1523,Dr_Name_1523,Cardiologist,15
+H093,Hospital_93,Delhi,Hyderabad,Private,496,124,63,D1934,Dr_Name_1934,Cardiologist,7
+H094,Hospital_94,Tamil Nadu,New Delhi,Government,111,56,113,D0940,Dr_Name_940,Pediatrician,22
+H094,Hospital_94,Tamil Nadu,New Delhi,Government,111,56,113,D1024,Dr_Name_1024,Orthopedic Surgeon,6
+H094,Hospital_94,Tamil Nadu,New Delhi,Government,111,56,113,D1246,Dr_Name_1246,General Physician,28
+H094,Hospital_94,Tamil Nadu,New Delhi,Government,111,56,113,D1675,Dr_Name_1675,Oncologist,12
+H094,Hospital_94,Tamil Nadu,New Delhi,Government,111,56,113,D1887,Dr_Name_1887,Oncologist,16
+H094,Hospital_94,Tamil Nadu,New Delhi,Government,111,56,113,D1922,Dr_Name_1922,General Physician,2
+H095,Hospital_95,Tamil Nadu,New Delhi,Private,1425,162,125,D0065,Dr_Name_65,Oncologist,22
+H095,Hospital_95,Tamil Nadu,New Delhi,Private,1425,162,125,D0820,Dr_Name_820,General Physician,27
+H095,Hospital_95,Tamil Nadu,New Delhi,Private,1425,162,125,D1248,Dr_Name_1248,Pulmonologist,10
+H095,Hospital_95,Tamil Nadu,New Delhi,Private,1425,162,125,D1487,Dr_Name_1487,Gastroenterologist,13
+H095,Hospital_95,Tamil Nadu,New Delhi,Private,1425,162,125,D1712,Dr_Name_1712,Orthopedic Surgeon,7
+H095,Hospital_95,Tamil Nadu,New Delhi,Private,1425,162,125,D1766,Dr_Name_1766,Cardiologist,6
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D0239,Dr_Name_239,Cardiologist,27
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D0485,Dr_Name_485,General Physician,19
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D0695,Dr_Name_695,Orthopedic Surgeon,11
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D0925,Dr_Name_925,Pediatrician,14
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D0956,Dr_Name_956,Pediatrician,8
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D1096,Dr_Name_1096,Gastroenterologist,8
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D1512,Dr_Name_1512,Pediatrician,11
+H096,Hospital_96,Tamil Nadu,Mumbai,Private,1376,19,37,D1676,Dr_Name_1676,Pulmonologist,25
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0004,Dr_Name_4,Orthopedic Surgeon,19
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0034,Dr_Name_34,Pulmonologist,29
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0045,Dr_Name_45,Gastroenterologist,26
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0234,Dr_Name_234,Oncologist,22
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0634,Dr_Name_634,Pulmonologist,13
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0846,Dr_Name_846,Neurologist,11
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D0936,Dr_Name_936,Orthopedic Surgeon,13
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D1349,Dr_Name_1349,Pulmonologist,4
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D1354,Dr_Name_1354,General Physician,3
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D1550,Dr_Name_1550,Neurologist,12
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D1626,Dr_Name_1626,Cardiologist,1
+H097,Hospital_97,Delhi,Chennai,Private,598,65,25,D1774,Dr_Name_1774,Orthopedic Surgeon,4
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0306,Dr_Name_306,Cardiologist,27
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0332,Dr_Name_332,General Physician,21
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0363,Dr_Name_363,Neurologist,23
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0394,Dr_Name_394,General Physician,7
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0457,Dr_Name_457,General Physician,15
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0583,Dr_Name_583,Orthopedic Surgeon,26
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0625,Dr_Name_625,General Physician,6
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0677,Dr_Name_677,Pediatrician,8
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D0960,Dr_Name_960,Neurologist,12
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D1143,Dr_Name_1143,Orthopedic Surgeon,23
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D1384,Dr_Name_1384,General Physician,2
+H098,Hospital_98,Maharashtra,Ahmedabad,Government,853,39,74,D1803,Dr_Name_1803,Gastroenterologist,18
+H099,Hospital_99,Tamil Nadu,Kochi,Private,134,118,116,D0283,Dr_Name_283,Gastroenterologist,6
+H099,Hospital_99,Tamil Nadu,Kochi,Private,134,118,116,D0563,Dr_Name_563,Gastroenterologist,20
+H099,Hospital_99,Tamil Nadu,Kochi,Private,134,118,116,D0729,Dr_Name_729,Neurologist,15
+H099,Hospital_99,Tamil Nadu,Kochi,Private,134,118,116,D0977,Dr_Name_977,Cardiologist,25
+H099,Hospital_99,Tamil Nadu,Kochi,Private,134,118,116,D1176,Dr_Name_1176,Pediatrician,11
+H099,Hospital_99,Tamil Nadu,Kochi,Private,134,118,116,D1541,Dr_Name_1541,Neurologist,15
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D0093,Dr_Name_93,Gastroenterologist,9
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D0314,Dr_Name_314,Orthopedic Surgeon,20
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D0645,Dr_Name_645,Neurologist,23
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D0665,Dr_Name_665,Orthopedic Surgeon,5
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D0911,Dr_Name_911,Pediatrician,15
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D0980,Dr_Name_980,Neurologist,19
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D1298,Dr_Name_1298,General Physician,26
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D1882,Dr_Name_1882,Oncologist,27
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D1942,Dr_Name_1942,Gastroenterologist,22
+H100,Hospital_100,Kerala,Noida,Government,826,14,8,D1952,Dr_Name_1952,General Physician,28
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D0113,Dr_Name_113,Oncologist,22
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D0397,Dr_Name_397,General Physician,22
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D0582,Dr_Name_582,Cardiologist,21
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D0751,Dr_Name_751,Orthopedic Surgeon,20
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D1455,Dr_Name_1455,Oncologist,22
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D1556,Dr_Name_1556,Pulmonologist,16
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D1648,Dr_Name_1648,Neurologist,25
+H101,Hospital_101,Gujarat,Hyderabad,Private,948,128,98,D1830,Dr_Name_1830,Neurologist,27
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D0393,Dr_Name_393,Cardiologist,14
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D0826,Dr_Name_826,Oncologist,20
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D1097,Dr_Name_1097,Orthopedic Surgeon,18
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D1145,Dr_Name_1145,Pediatrician,1
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D1147,Dr_Name_1147,General Physician,20
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D1174,Dr_Name_1174,Gastroenterologist,11
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D1343,Dr_Name_1343,General Physician,17
+H102,Hospital_102,Delhi,Hyderabad,Private,189,42,79,D1382,Dr_Name_1382,Pulmonologist,27
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0212,Dr_Name_212,Oncologist,10
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0299,Dr_Name_299,Neurologist,3
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0449,Dr_Name_449,Oncologist,1
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0499,Dr_Name_499,General Physician,2
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0855,Dr_Name_855,Pulmonologist,20
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0858,Dr_Name_858,Pediatrician,14
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D0875,Dr_Name_875,Pulmonologist,5
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D1553,Dr_Name_1553,Pediatrician,10
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D1557,Dr_Name_1557,Pediatrician,3
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D1842,Dr_Name_1842,General Physician,21
+H103,Hospital_103,Delhi,Bangalore,Private,875,127,66,D1911,Dr_Name_1911,Neurologist,22
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0012,Dr_Name_12,Cardiologist,1
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0013,Dr_Name_13,Oncologist,13
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0076,Dr_Name_76,Oncologist,9
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0087,Dr_Name_87,Neurologist,22
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0090,Dr_Name_90,Orthopedic Surgeon,15
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0178,Dr_Name_178,Gastroenterologist,21
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0384,Dr_Name_384,General Physician,15
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0676,Dr_Name_676,Gastroenterologist,24
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D0867,Dr_Name_867,Cardiologist,27
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D1414,Dr_Name_1414,Cardiologist,1
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D1417,Dr_Name_1417,Pulmonologist,8
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D1685,Dr_Name_1685,General Physician,18
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D1751,Dr_Name_1751,Cardiologist,4
+H104,Hospital_104,Maharashtra,Chennai,Government,704,74,98,D1800,Dr_Name_1800,Pediatrician,9
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D0171,Dr_Name_171,Gastroenterologist,10
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D0585,Dr_Name_585,Gastroenterologist,10
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D0927,Dr_Name_927,Neurologist,29
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D0957,Dr_Name_957,Neurologist,14
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D1025,Dr_Name_1025,Pediatrician,19
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D1126,Dr_Name_1126,Pediatrician,18
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D1436,Dr_Name_1436,Orthopedic Surgeon,17
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D1615,Dr_Name_1615,Pediatrician,23
+H105,Hospital_105,Delhi,New Delhi,Private,1069,155,99,D1696,Dr_Name_1696,Neurologist,15
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D0100,Dr_Name_100,Pediatrician,27
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D0325,Dr_Name_325,Cardiologist,17
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D0863,Dr_Name_863,Neurologist,27
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D0900,Dr_Name_900,Neurologist,7
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1236,Dr_Name_1236,Cardiologist,28
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1271,Dr_Name_1271,Oncologist,25
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1397,Dr_Name_1397,Neurologist,8
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1790,Dr_Name_1790,Orthopedic Surgeon,7
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1802,Dr_Name_1802,Cardiologist,18
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1968,Dr_Name_1968,Neurologist,22
+H106,Hospital_106,Delhi,Kochi,Private,1121,186,59,D1980,Dr_Name_1980,Cardiologist,25
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D0084,Dr_Name_84,General Physician,2
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D0346,Dr_Name_346,Orthopedic Surgeon,17
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D0551,Dr_Name_551,Cardiologist,16
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D0640,Dr_Name_640,General Physician,7
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D0659,Dr_Name_659,Pediatrician,22
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D1037,Dr_Name_1037,Gastroenterologist,13
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D1210,Dr_Name_1210,General Physician,17
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D1920,Dr_Name_1920,Oncologist,26
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D1986,Dr_Name_1986,Neurologist,6
+H107,Hospital_107,Tamil Nadu,Mumbai,Government,517,20,141,D1989,Dr_Name_1989,Pediatrician,13
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0150,Dr_Name_150,General Physician,3
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0285,Dr_Name_285,Cardiologist,16
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0390,Dr_Name_390,Neurologist,10
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0454,Dr_Name_454,General Physician,27
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0463,Dr_Name_463,Cardiologist,16
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0474,Dr_Name_474,Orthopedic Surgeon,16
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D0948,Dr_Name_948,Neurologist,2
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1048,Dr_Name_1048,Gastroenterologist,22
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1205,Dr_Name_1205,Neurologist,8
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1249,Dr_Name_1249,Cardiologist,18
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1309,Dr_Name_1309,Oncologist,23
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1418,Dr_Name_1418,General Physician,5
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1784,Dr_Name_1784,Orthopedic Surgeon,22
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1795,Dr_Name_1795,Oncologist,20
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1958,Dr_Name_1958,Gastroenterologist,10
+H108,Hospital_108,Maharashtra,New Delhi,Private,214,94,135,D1967,Dr_Name_1967,Orthopedic Surgeon,12
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D0051,Dr_Name_51,Neurologist,12
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D0305,Dr_Name_305,Pediatrician,28
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D0375,Dr_Name_375,Cardiologist,22
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D0423,Dr_Name_423,Neurologist,1
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D0681,Dr_Name_681,Cardiologist,13
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D1154,Dr_Name_1154,Orthopedic Surgeon,11
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D1347,Dr_Name_1347,Cardiologist,15
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D1655,Dr_Name_1655,Oncologist,23
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D1876,Dr_Name_1876,Cardiologist,11
+H109,Hospital_109,Tamil Nadu,Noida,Government,716,35,35,D1926,Dr_Name_1926,Neurologist,12
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D0116,Dr_Name_116,Pulmonologist,21
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D0216,Dr_Name_216,Pediatrician,24
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D0549,Dr_Name_549,Cardiologist,24
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D0819,Dr_Name_819,Pediatrician,23
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D1178,Dr_Name_1178,Orthopedic Surgeon,1
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D1490,Dr_Name_1490,Pulmonologist,23
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D1665,Dr_Name_1665,Pulmonologist,11
+H110,Hospital_110,Gujarat,Chennai,Government,1319,72,44,D1873,Dr_Name_1873,Oncologist,8
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D0026,Dr_Name_26,Cardiologist,29
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D0089,Dr_Name_89,Neurologist,6
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D0365,Dr_Name_365,Cardiologist,17
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D0720,Dr_Name_720,Neurologist,3
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D0886,Dr_Name_886,Cardiologist,28
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D0995,Dr_Name_995,Pediatrician,26
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D1046,Dr_Name_1046,Pulmonologist,3
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D1681,Dr_Name_1681,Gastroenterologist,11
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D1785,Dr_Name_1785,General Physician,20
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D1788,Dr_Name_1788,Pediatrician,4
+H111,Hospital_111,Uttar Pradesh,Noida,Private,925,95,40,D1833,Dr_Name_1833,Pediatrician,2
+H112,Hospital_112,Gujarat,Ahmedabad,Government,1198,68,10,D0259,Dr_Name_259,General Physician,22
+H112,Hospital_112,Gujarat,Ahmedabad,Government,1198,68,10,D1605,Dr_Name_1605,Oncologist,5
+H112,Hospital_112,Gujarat,Ahmedabad,Government,1198,68,10,D1682,Dr_Name_1682,Oncologist,16
+H112,Hospital_112,Gujarat,Ahmedabad,Government,1198,68,10,D1811,Dr_Name_1811,Orthopedic Surgeon,4
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D0202,Dr_Name_202,Pediatrician,10
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D0359,Dr_Name_359,Neurologist,14
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D0674,Dr_Name_674,Pediatrician,14
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D1112,Dr_Name_1112,Oncologist,28
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D1614,Dr_Name_1614,Neurologist,16
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D1735,Dr_Name_1735,Orthopedic Surgeon,15
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D1889,Dr_Name_1889,Cardiologist,28
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D1894,Dr_Name_1894,Orthopedic Surgeon,25
+H113,Hospital_113,Uttar Pradesh,Mumbai,Private,512,36,70,D1921,Dr_Name_1921,Orthopedic Surgeon,25
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D0166,Dr_Name_166,General Physician,28
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D0203,Dr_Name_203,Orthopedic Surgeon,18
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D0292,Dr_Name_292,Neurologist,18
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D0615,Dr_Name_615,Cardiologist,12
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D0878,Dr_Name_878,Neurologist,15
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D1051,Dr_Name_1051,Pulmonologist,22
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D1107,Dr_Name_1107,Orthopedic Surgeon,27
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D1434,Dr_Name_1434,Pulmonologist,8
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D1701,Dr_Name_1701,Orthopedic Surgeon,13
+H114,Hospital_114,Tamil Nadu,Ahmedabad,Government,1499,186,79,D1728,Dr_Name_1728,General Physician,5
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0066,Dr_Name_66,Pulmonologist,26
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0124,Dr_Name_124,Pediatrician,28
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0199,Dr_Name_199,Cardiologist,18
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0293,Dr_Name_293,Cardiologist,7
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0351,Dr_Name_351,Pediatrician,25
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0440,Dr_Name_440,Cardiologist,5
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0620,Dr_Name_620,Oncologist,17
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D0968,Dr_Name_968,Gastroenterologist,25
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D1413,Dr_Name_1413,Oncologist,12
+H115,Hospital_115,Gujarat,Bangalore,Government,828,170,8,D1546,Dr_Name_1546,Neurologist,2
+H116,Hospital_116,Maharashtra,Noida,Private,1400,107,83,D0445,Dr_Name_445,Neurologist,26
+H116,Hospital_116,Maharashtra,Noida,Private,1400,107,83,D0737,Dr_Name_737,General Physician,29
+H116,Hospital_116,Maharashtra,Noida,Private,1400,107,83,D0852,Dr_Name_852,Gastroenterologist,26
+H116,Hospital_116,Maharashtra,Noida,Private,1400,107,83,D1386,Dr_Name_1386,Pediatrician,8
+H116,Hospital_116,Maharashtra,Noida,Private,1400,107,83,D1566,Dr_Name_1566,Neurologist,28
+H116,Hospital_116,Maharashtra,Noida,Private,1400,107,83,D1893,Dr_Name_1893,Gastroenterologist,28
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D0133,Dr_Name_133,Orthopedic Surgeon,19
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D0324,Dr_Name_324,Neurologist,10
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D0437,Dr_Name_437,Gastroenterologist,17
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D0548,Dr_Name_548,Pediatrician,29
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D0808,Dr_Name_808,Pediatrician,18
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D0959,Dr_Name_959,General Physician,3
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D1191,Dr_Name_1191,Cardiologist,13
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D1213,Dr_Name_1213,Cardiologist,24
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D1228,Dr_Name_1228,Oncologist,26
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D1500,Dr_Name_1500,Oncologist,20
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D1600,Dr_Name_1600,Gastroenterologist,4
+H117,Hospital_117,Telangana,Bangalore,Government,1120,114,138,D1880,Dr_Name_1880,Oncologist,3
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D0046,Dr_Name_46,Oncologist,20
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D0174,Dr_Name_174,Neurologist,13
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D0414,Dr_Name_414,Neurologist,15
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D0703,Dr_Name_703,Oncologist,3
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1018,Dr_Name_1018,Neurologist,8
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1034,Dr_Name_1034,Oncologist,7
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1264,Dr_Name_1264,General Physician,16
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1277,Dr_Name_1277,Cardiologist,10
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1334,Dr_Name_1334,Pulmonologist,15
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1415,Dr_Name_1415,Oncologist,23
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1708,Dr_Name_1708,General Physician,27
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1778,Dr_Name_1778,Oncologist,2
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1897,Dr_Name_1897,Gastroenterologist,28
+H118,Hospital_118,Tamil Nadu,Hyderabad,Government,860,108,122,D1923,Dr_Name_1923,Gastroenterologist,12
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D0274,Dr_Name_274,Cardiologist,1
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D0733,Dr_Name_733,Neurologist,3
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D0864,Dr_Name_864,Orthopedic Surgeon,15
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D0914,Dr_Name_914,Neurologist,3
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D0987,Dr_Name_987,Orthopedic Surgeon,15
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1059,Dr_Name_1059,Neurologist,14
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1090,Dr_Name_1090,Orthopedic Surgeon,1
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1104,Dr_Name_1104,Oncologist,27
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1275,Dr_Name_1275,Pulmonologist,24
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1311,Dr_Name_1311,Neurologist,1
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1699,Dr_Name_1699,Orthopedic Surgeon,12
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1740,Dr_Name_1740,Oncologist,14
+H119,Hospital_119,Uttar Pradesh,Ahmedabad,Government,775,138,117,D1852,Dr_Name_1852,Cardiologist,15
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0096,Dr_Name_96,General Physician,6
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0243,Dr_Name_243,Pediatrician,26
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0289,Dr_Name_289,Pediatrician,10
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0466,Dr_Name_466,Cardiologist,28
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0507,Dr_Name_507,General Physician,4
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0555,Dr_Name_555,General Physician,9
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0576,Dr_Name_576,Gastroenterologist,29
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D0706,Dr_Name_706,Pulmonologist,29
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1042,Dr_Name_1042,Orthopedic Surgeon,28
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1269,Dr_Name_1269,Oncologist,14
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1584,Dr_Name_1584,Orthopedic Surgeon,15
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1618,Dr_Name_1618,Cardiologist,27
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1736,Dr_Name_1736,Gastroenterologist,12
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1861,Dr_Name_1861,Pulmonologist,28
+H120,Hospital_120,Kerala,Chennai,Government,556,158,98,D1975,Dr_Name_1975,General Physician,14
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D0495,Dr_Name_495,Neurologist,8
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D0520,Dr_Name_520,Cardiologist,20
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D0835,Dr_Name_835,Pediatrician,5
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D1036,Dr_Name_1036,Gastroenterologist,25
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D1285,Dr_Name_1285,General Physician,24
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D1400,Dr_Name_1400,Neurologist,22
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D1420,Dr_Name_1420,Orthopedic Surgeon,1
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D1821,Dr_Name_1821,Gastroenterologist,19
+H121,Hospital_121,Uttar Pradesh,Noida,Government,1019,64,66,D1824,Dr_Name_1824,Neurologist,25
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0103,Dr_Name_103,Orthopedic Surgeon,29
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0321,Dr_Name_321,Orthopedic Surgeon,5
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0341,Dr_Name_341,Neurologist,9
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0565,Dr_Name_565,Pulmonologist,3
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0793,Dr_Name_793,Pulmonologist,25
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0861,Dr_Name_861,Oncologist,16
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D0908,Dr_Name_908,Oncologist,24
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D1284,Dr_Name_1284,Cardiologist,3
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D1698,Dr_Name_1698,General Physician,10
+H122,Hospital_122,Kerala,Kochi,Private,291,15,83,D1738,Dr_Name_1738,Gastroenterologist,23
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D0043,Dr_Name_43,Cardiologist,5
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D0184,Dr_Name_184,Gastroenterologist,25
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D0486,Dr_Name_486,Oncologist,2
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D0567,Dr_Name_567,Pediatrician,19
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D0588,Dr_Name_588,Neurologist,22
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D0870,Dr_Name_870,Gastroenterologist,24
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D1001,Dr_Name_1001,Pulmonologist,9
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D1206,Dr_Name_1206,Cardiologist,19
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D1273,Dr_Name_1273,General Physician,3
+H123,Hospital_123,Delhi,Mumbai,Government,838,104,140,D1355,Dr_Name_1355,Orthopedic Surgeon,22
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D0218,Dr_Name_218,Orthopedic Surgeon,14
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D0528,Dr_Name_528,Gastroenterologist,22
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D0601,Dr_Name_601,Oncologist,8
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D0761,Dr_Name_761,Orthopedic Surgeon,5
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1089,Dr_Name_1089,Gastroenterologist,1
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1214,Dr_Name_1214,Pulmonologist,6
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1558,Dr_Name_1558,General Physician,10
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1562,Dr_Name_1562,Neurologist,5
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1716,Dr_Name_1716,Oncologist,8
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1727,Dr_Name_1727,Neurologist,8
+H124,Hospital_124,Gujarat,New Delhi,Private,1222,142,30,D1909,Dr_Name_1909,Cardiologist,16
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D0002,Dr_Name_2,Orthopedic Surgeon,16
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D0260,Dr_Name_260,General Physician,11
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D0577,Dr_Name_577,Oncologist,26
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D0714,Dr_Name_714,Pulmonologist,19
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D0970,Dr_Name_970,Cardiologist,10
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D0994,Dr_Name_994,Gastroenterologist,20
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1144,Dr_Name_1144,Pediatrician,20
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1226,Dr_Name_1226,Orthopedic Surgeon,11
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1286,Dr_Name_1286,Oncologist,5
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1335,Dr_Name_1335,Neurologist,14
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1374,Dr_Name_1374,Pediatrician,5
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1493,Dr_Name_1493,Pulmonologist,11
+H125,Hospital_125,Kerala,Chennai,Government,1077,111,48,D1834,Dr_Name_1834,Cardiologist,2
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D0475,Dr_Name_475,Gastroenterologist,9
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D0746,Dr_Name_746,General Physician,2
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D0801,Dr_Name_801,Neurologist,4
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D0949,Dr_Name_949,Gastroenterologist,23
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D1070,Dr_Name_1070,Oncologist,25
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D1084,Dr_Name_1084,General Physician,20
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D1534,Dr_Name_1534,Gastroenterologist,28
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D1693,Dr_Name_1693,General Physician,12
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D1748,Dr_Name_1748,Neurologist,29
+H126,Hospital_126,Uttar Pradesh,Chennai,Private,1108,12,137,D1946,Dr_Name_1946,General Physician,14
+H127,Hospital_127,Delhi,Bangalore,Private,195,190,74,D0099,Dr_Name_99,General Physician,4
+H127,Hospital_127,Delhi,Bangalore,Private,195,190,74,D0887,Dr_Name_887,Gastroenterologist,7
+H127,Hospital_127,Delhi,Bangalore,Private,195,190,74,D0895,Dr_Name_895,Oncologist,19
+H127,Hospital_127,Delhi,Bangalore,Private,195,190,74,D0897,Dr_Name_897,Oncologist,11
+H127,Hospital_127,Delhi,Bangalore,Private,195,190,74,D1997,Dr_Name_1997,Gastroenterologist,19
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D0147,Dr_Name_147,Gastroenterologist,27
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D0291,Dr_Name_291,Neurologist,21
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D0311,Dr_Name_311,Orthopedic Surgeon,21
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D1083,Dr_Name_1083,Pediatrician,20
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D1511,Dr_Name_1511,Orthopedic Surgeon,7
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D1787,Dr_Name_1787,General Physician,15
+H128,Hospital_128,Telangana,Ahmedabad,Government,762,32,122,D1806,Dr_Name_1806,Pediatrician,23
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D0208,Dr_Name_208,Orthopedic Surgeon,13
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D0267,Dr_Name_267,Pulmonologist,29
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D0381,Dr_Name_381,Neurologist,14
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1093,Dr_Name_1093,Pulmonologist,17
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1156,Dr_Name_1156,Pediatrician,16
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1267,Dr_Name_1267,Orthopedic Surgeon,24
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1621,Dr_Name_1621,General Physician,9
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1654,Dr_Name_1654,General Physician,26
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1794,Dr_Name_1794,Oncologist,6
+H129,Hospital_129,Maharashtra,Noida,Government,1313,62,72,D1949,Dr_Name_1949,Neurologist,15
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0063,Dr_Name_63,Pulmonologist,10
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0142,Dr_Name_142,Neurologist,16
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0272,Dr_Name_272,General Physician,28
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0344,Dr_Name_344,Neurologist,10
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0739,Dr_Name_739,Gastroenterologist,19
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0809,Dr_Name_809,Pulmonologist,15
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D0998,Dr_Name_998,Neurologist,18
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1053,Dr_Name_1053,Pediatrician,6
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1362,Dr_Name_1362,Pulmonologist,25
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1379,Dr_Name_1379,Cardiologist,29
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1477,Dr_Name_1477,Pediatrician,6
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1525,Dr_Name_1525,Neurologist,4
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1533,Dr_Name_1533,Cardiologist,26
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1577,Dr_Name_1577,Pediatrician,12
+H130,Hospital_130,Maharashtra,Noida,Government,136,174,23,D1622,Dr_Name_1622,Oncologist,28
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0213,Dr_Name_213,Pulmonologist,6
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0389,Dr_Name_389,Cardiologist,9
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0458,Dr_Name_458,Cardiologist,29
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0758,Dr_Name_758,General Physician,2
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0786,Dr_Name_786,Gastroenterologist,11
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0794,Dr_Name_794,Neurologist,9
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0929,Dr_Name_929,Pulmonologist,28
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D0972,Dr_Name_972,General Physician,24
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D1351,Dr_Name_1351,Pulmonologist,18
+H131,Hospital_131,Maharashtra,Hyderabad,Private,1492,92,24,D1495,Dr_Name_1495,Gastroenterologist,12
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D0207,Dr_Name_207,Oncologist,27
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D0890,Dr_Name_890,Oncologist,12
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D1146,Dr_Name_1146,Orthopedic Surgeon,25
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D1243,Dr_Name_1243,General Physician,8
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D1799,Dr_Name_1799,Pediatrician,20
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D1832,Dr_Name_1832,Orthopedic Surgeon,10
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D1835,Dr_Name_1835,Cardiologist,28
+H132,Hospital_132,Kerala,Hyderabad,Government,378,154,117,D1860,Dr_Name_1860,Gastroenterologist,15
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D0095,Dr_Name_95,Oncologist,16
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D0501,Dr_Name_501,General Physician,22
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D0604,Dr_Name_604,General Physician,2
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D0651,Dr_Name_651,Oncologist,5
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D1027,Dr_Name_1027,Neurologist,25
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D1195,Dr_Name_1195,Cardiologist,9
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D1575,Dr_Name_1575,Pulmonologist,29
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D1586,Dr_Name_1586,Neurologist,26
+H133,Hospital_133,Telangana,Mumbai,Private,316,94,144,D1660,Dr_Name_1660,General Physician,20
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D0018,Dr_Name_18,Neurologist,23
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D0078,Dr_Name_78,Pediatrician,20
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D0330,Dr_Name_330,Pediatrician,1
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D0719,Dr_Name_719,Gastroenterologist,21
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D0871,Dr_Name_871,Oncologist,9
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D0891,Dr_Name_891,Orthopedic Surgeon,17
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D1047,Dr_Name_1047,Orthopedic Surgeon,13
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D1465,Dr_Name_1465,Cardiologist,5
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D1497,Dr_Name_1497,Pulmonologist,17
+H134,Hospital_134,Kerala,Bangalore,Private,966,87,51,D1521,Dr_Name_1521,General Physician,5
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D0020,Dr_Name_20,Pulmonologist,23
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D0143,Dr_Name_143,Neurologist,6
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D0223,Dr_Name_223,Oncologist,17
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D0434,Dr_Name_434,Orthopedic Surgeon,7
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D0937,Dr_Name_937,Orthopedic Surgeon,4
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D1669,Dr_Name_1669,Orthopedic Surgeon,22
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D1752,Dr_Name_1752,Orthopedic Surgeon,15
+H135,Hospital_135,Gujarat,Chennai,Private,972,119,5,D1971,Dr_Name_1971,Orthopedic Surgeon,4
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D0056,Dr_Name_56,Cardiologist,2
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D0828,Dr_Name_828,Orthopedic Surgeon,3
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D0913,Dr_Name_913,Pediatrician,20
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1110,Dr_Name_1110,Cardiologist,5
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1234,Dr_Name_1234,General Physician,4
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1353,Dr_Name_1353,Cardiologist,28
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1407,Dr_Name_1407,Oncologist,24
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1501,Dr_Name_1501,Pediatrician,4
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1684,Dr_Name_1684,Oncologist,19
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1749,Dr_Name_1749,Pulmonologist,3
+H136,Hospital_136,Kerala,Noida,Government,1396,10,94,D1789,Dr_Name_1789,Neurologist,9
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D0104,Dr_Name_104,Gastroenterologist,4
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D0130,Dr_Name_130,General Physician,17
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D0280,Dr_Name_280,Cardiologist,25
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D0439,Dr_Name_439,Pediatrician,13
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D0590,Dr_Name_590,Oncologist,12
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D1279,Dr_Name_1279,Pediatrician,26
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D1540,Dr_Name_1540,Gastroenterologist,24
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D1619,Dr_Name_1619,Oncologist,10
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D1813,Dr_Name_1813,General Physician,12
+H137,Hospital_137,Telangana,Kochi,Government,161,60,146,D1912,Dr_Name_1912,General Physician,25
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D0336,Dr_Name_336,Neurologist,19
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D0657,Dr_Name_657,Oncologist,1
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D0702,Dr_Name_702,General Physician,27
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D1321,Dr_Name_1321,Orthopedic Surgeon,20
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D1582,Dr_Name_1582,Cardiologist,10
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D1679,Dr_Name_1679,Pediatrician,22
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D1837,Dr_Name_1837,Gastroenterologist,17
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D1917,Dr_Name_1917,Cardiologist,9
+H138,Hospital_138,Telangana,Bangalore,Private,695,182,68,D1976,Dr_Name_1976,Gastroenterologist,16
+H139,Hospital_139,Gujarat,Mumbai,Private,828,13,42,D0599,Dr_Name_599,Gastroenterologist,27
+H139,Hospital_139,Gujarat,Mumbai,Private,828,13,42,D0717,Dr_Name_717,General Physician,28
+H139,Hospital_139,Gujarat,Mumbai,Private,828,13,42,D0812,Dr_Name_812,Oncologist,14
+H139,Hospital_139,Gujarat,Mumbai,Private,828,13,42,D1015,Dr_Name_1015,Pediatrician,4
+H139,Hospital_139,Gujarat,Mumbai,Private,828,13,42,D1595,Dr_Name_1595,Oncologist,3
+H139,Hospital_139,Gujarat,Mumbai,Private,828,13,42,D1666,Dr_Name_1666,Oncologist,11
+H140,Hospital_140,Telangana,Mumbai,Government,1465,199,41,D0085,Dr_Name_85,Neurologist,21
+H140,Hospital_140,Telangana,Mumbai,Government,1465,199,41,D0275,Dr_Name_275,Neurologist,23
+H140,Hospital_140,Telangana,Mumbai,Government,1465,199,41,D0523,Dr_Name_523,Oncologist,10
+H140,Hospital_140,Telangana,Mumbai,Government,1465,199,41,D1406,Dr_Name_1406,Gastroenterologist,21
+H140,Hospital_140,Telangana,Mumbai,Government,1465,199,41,D1705,Dr_Name_1705,Oncologist,2
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0048,Dr_Name_48,Pulmonologist,17
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0086,Dr_Name_86,Pulmonologist,2
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0182,Dr_Name_182,Cardiologist,15
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0470,Dr_Name_470,Cardiologist,1
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0482,Dr_Name_482,Cardiologist,14
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0730,Dr_Name_730,Gastroenterologist,11
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D0905,Dr_Name_905,Pulmonologist,20
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1151,Dr_Name_1151,Gastroenterologist,1
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1222,Dr_Name_1222,Gastroenterologist,4
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1252,Dr_Name_1252,Gastroenterologist,1
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1274,Dr_Name_1274,Orthopedic Surgeon,26
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1499,Dr_Name_1499,Pediatrician,19
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1514,Dr_Name_1514,Pediatrician,1
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1613,Dr_Name_1613,Gastroenterologist,22
+H141,Hospital_141,Uttar Pradesh,Bangalore,Private,496,122,130,D1746,Dr_Name_1746,Pulmonologist,29
+H142,Hospital_142,Telangana,Mumbai,Government,798,41,143,D0249,Dr_Name_249,Pulmonologist,8
+H142,Hospital_142,Telangana,Mumbai,Government,798,41,143,D0506,Dr_Name_506,Pediatrician,8
+H142,Hospital_142,Telangana,Mumbai,Government,798,41,143,D0581,Dr_Name_581,Orthopedic Surgeon,3
+H142,Hospital_142,Telangana,Mumbai,Government,798,41,143,D1122,Dr_Name_1122,Cardiologist,13
+H142,Hospital_142,Telangana,Mumbai,Government,798,41,143,D1431,Dr_Name_1431,Gastroenterologist,3
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D0007,Dr_Name_7,Pulmonologist,27
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D0126,Dr_Name_126,Gastroenterologist,17
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D0420,Dr_Name_420,Pediatrician,19
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D0518,Dr_Name_518,Pediatrician,22
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D0862,Dr_Name_862,General Physician,13
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D0976,Dr_Name_976,Cardiologist,13
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1161,Dr_Name_1161,Orthopedic Surgeon,13
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1165,Dr_Name_1165,Cardiologist,8
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1215,Dr_Name_1215,Orthopedic Surgeon,28
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1316,Dr_Name_1316,Pediatrician,26
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1452,Dr_Name_1452,Oncologist,8
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1472,Dr_Name_1472,General Physician,26
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1668,Dr_Name_1668,General Physician,21
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1905,Dr_Name_1905,Gastroenterologist,10
+H143,Hospital_143,Maharashtra,Bangalore,Private,1142,43,104,D1998,Dr_Name_1998,Neurologist,14
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D0193,Dr_Name_193,Pediatrician,18
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D0245,Dr_Name_245,General Physician,27
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1235,Dr_Name_1235,Neurologist,23
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1402,Dr_Name_1402,Cardiologist,26
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1405,Dr_Name_1405,Gastroenterologist,26
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1409,Dr_Name_1409,Neurologist,2
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1549,Dr_Name_1549,Pulmonologist,24
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1713,Dr_Name_1713,Pulmonologist,15
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1792,Dr_Name_1792,Orthopedic Surgeon,19
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1827,Dr_Name_1827,Pulmonologist,19
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1914,Dr_Name_1914,Gastroenterologist,18
+H144,Hospital_144,Uttar Pradesh,New Delhi,Government,276,101,81,D1978,Dr_Name_1978,General Physician,4
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0009,Dr_Name_9,Gastroenterologist,15
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0338,Dr_Name_338,Oncologist,3
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0430,Dr_Name_430,Pediatrician,17
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0572,Dr_Name_572,Oncologist,28
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0701,Dr_Name_701,Pediatrician,13
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0777,Dr_Name_777,Pediatrician,11
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D0833,Dr_Name_833,Gastroenterologist,13
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D1000,Dr_Name_1000,Pediatrician,16
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D1108,Dr_Name_1108,Cardiologist,13
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D1404,Dr_Name_1404,Cardiologist,7
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D1638,Dr_Name_1638,Cardiologist,15
+H145,Hospital_145,Uttar Pradesh,Bangalore,Private,495,104,7,D1900,Dr_Name_1900,Neurologist,1
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D0310,Dr_Name_310,Gastroenterologist,25
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D0447,Dr_Name_447,Pediatrician,7
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D0510,Dr_Name_510,Pulmonologist,20
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D0607,Dr_Name_607,Cardiologist,12
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D0922,Dr_Name_922,Pediatrician,23
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D1239,Dr_Name_1239,Cardiologist,26
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D1302,Dr_Name_1302,Oncologist,18
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D1331,Dr_Name_1331,Cardiologist,26
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D1518,Dr_Name_1518,General Physician,6
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D1722,Dr_Name_1722,Orthopedic Surgeon,29
+H146,Hospital_146,Gujarat,Ahmedabad,Government,544,81,138,D1891,Dr_Name_1891,Cardiologist,20
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D0258,Dr_Name_258,Neurologist,2
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D0261,Dr_Name_261,Pediatrician,26
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D0630,Dr_Name_630,Pediatrician,28
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D0755,Dr_Name_755,Pulmonologist,24
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D0909,Dr_Name_909,Orthopedic Surgeon,10
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D1120,Dr_Name_1120,Pediatrician,17
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D1167,Dr_Name_1167,Cardiologist,27
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D1303,Dr_Name_1303,General Physician,20
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D1866,Dr_Name_1866,Neurologist,10
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D1870,Dr_Name_1870,Orthopedic Surgeon,19
+H147,Hospital_147,Karnataka,Bangalore,Private,1356,48,14,D1928,Dr_Name_1928,Cardiologist,9
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0073,Dr_Name_73,Gastroenterologist,6
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0173,Dr_Name_173,Oncologist,20
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0270,Dr_Name_270,Oncologist,24
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0372,Dr_Name_372,Orthopedic Surgeon,12
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0544,Dr_Name_544,Gastroenterologist,9
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0694,Dr_Name_694,Cardiologist,12
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0795,Dr_Name_795,Pediatrician,22
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0842,Dr_Name_842,Pulmonologist,11
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D0945,Dr_Name_945,Orthopedic Surgeon,24
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D1050,Dr_Name_1050,Cardiologist,16
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D1661,Dr_Name_1661,Cardiologist,16
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D1903,Dr_Name_1903,General Physician,9
+H148,Hospital_148,Karnataka,Mumbai,Government,175,163,9,D2000,Dr_Name_2000,Pediatrician,14
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D0114,Dr_Name_114,Cardiologist,19
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D0127,Dr_Name_127,General Physician,13
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D0354,Dr_Name_354,General Physician,29
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D0412,Dr_Name_412,Cardiologist,10
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1166,Dr_Name_1166,Orthopedic Surgeon,8
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1312,Dr_Name_1312,Neurologist,22
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1368,Dr_Name_1368,Neurologist,29
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1422,Dr_Name_1422,Orthopedic Surgeon,25
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1473,Dr_Name_1473,Cardiologist,15
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1502,Dr_Name_1502,Pediatrician,3
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1542,Dr_Name_1542,Pulmonologist,11
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1579,Dr_Name_1579,General Physician,29
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1581,Dr_Name_1581,Pediatrician,6
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1597,Dr_Name_1597,General Physician,11
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1703,Dr_Name_1703,Pulmonologist,7
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1737,Dr_Name_1737,Neurologist,5
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1745,Dr_Name_1745,Gastroenterologist,28
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1747,Dr_Name_1747,General Physician,5
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1805,Dr_Name_1805,Neurologist,20
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1843,Dr_Name_1843,Gastroenterologist,11
+H149,Hospital_149,Telangana,Noida,Government,364,171,142,D1938,Dr_Name_1938,Pediatrician,19
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D0163,Dr_Name_163,Pulmonologist,26
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D0367,Dr_Name_367,Gastroenterologist,8
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D0700,Dr_Name_700,Cardiologist,3
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D0854,Dr_Name_854,Neurologist,20
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D0923,Dr_Name_923,Pulmonologist,8
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1276,Dr_Name_1276,Gastroenterologist,22
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1313,Dr_Name_1313,Oncologist,25
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1388,Dr_Name_1388,Gastroenterologist,19
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1425,Dr_Name_1425,General Physician,10
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1450,Dr_Name_1450,Pulmonologist,14
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1755,Dr_Name_1755,General Physician,19
+H150,Hospital_150,Uttar Pradesh,Ahmedabad,Private,554,191,134,D1874,Dr_Name_1874,Pediatrician,18
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D0110,Dr_Name_110,General Physician,21
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D0256,Dr_Name_256,Pulmonologist,28
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D0431,Dr_Name_431,Pediatrician,21
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1012,Dr_Name_1012,Gastroenterologist,16
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1078,Dr_Name_1078,Orthopedic Surgeon,13
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1082,Dr_Name_1082,Gastroenterologist,17
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1209,Dr_Name_1209,Gastroenterologist,27
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1433,Dr_Name_1433,General Physician,16
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1444,Dr_Name_1444,General Physician,16
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1527,Dr_Name_1527,Pulmonologist,27
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1753,Dr_Name_1753,Oncologist,14
+H151,Hospital_151,Karnataka,Mumbai,Private,817,127,17,D1767,Dr_Name_1767,General Physician,4
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D0153,Dr_Name_153,Oncologist,21
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D0366,Dr_Name_366,Cardiologist,23
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D0453,Dr_Name_453,Gastroenterologist,25
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D0952,Dr_Name_952,Pulmonologist,14
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1289,Dr_Name_1289,Oncologist,27
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1296,Dr_Name_1296,Pulmonologist,21
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1657,Dr_Name_1657,Oncologist,25
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1658,Dr_Name_1658,Neurologist,14
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1875,Dr_Name_1875,Cardiologist,11
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1963,Dr_Name_1963,Gastroenterologist,24
+H152,Hospital_152,Karnataka,Hyderabad,Government,834,12,134,D1966,Dr_Name_1966,Gastroenterologist,26
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0008,Dr_Name_8,General Physician,2
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0320,Dr_Name_320,Pediatrician,23
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0469,Dr_Name_469,Gastroenterologist,24
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0498,Dr_Name_498,Orthopedic Surgeon,16
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0513,Dr_Name_513,Cardiologist,13
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0538,Dr_Name_538,Gastroenterologist,26
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0592,Dr_Name_592,Pediatrician,29
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D0798,Dr_Name_798,Gastroenterologist,19
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D1193,Dr_Name_1193,Neurologist,22
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D1325,Dr_Name_1325,Oncologist,1
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D1686,Dr_Name_1686,Oncologist,3
+H153,Hospital_153,Telangana,Hyderabad,Private,950,132,88,D1724,Dr_Name_1724,General Physician,24
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0134,Dr_Name_134,General Physician,1
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0164,Dr_Name_164,Pulmonologist,19
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0302,Dr_Name_302,General Physician,1
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0339,Dr_Name_339,Orthopedic Surgeon,7
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0376,Dr_Name_376,Neurologist,1
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0422,Dr_Name_422,General Physician,22
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0853,Dr_Name_853,Oncologist,17
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D0894,Dr_Name_894,General Physician,29
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D1192,Dr_Name_1192,Cardiologist,19
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D1291,Dr_Name_1291,Cardiologist,17
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D1445,Dr_Name_1445,Orthopedic Surgeon,14
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D1839,Dr_Name_1839,Pediatrician,16
+H154,Hospital_154,Karnataka,Noida,Government,1490,59,69,D1932,Dr_Name_1932,Neurologist,16
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D0029,Dr_Name_29,General Physician,10
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D0035,Dr_Name_35,Oncologist,10
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D0064,Dr_Name_64,Oncologist,6
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D0647,Dr_Name_647,Cardiologist,6
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D0673,Dr_Name_673,Oncologist,24
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D1570,Dr_Name_1570,Pulmonologist,23
+H155,Hospital_155,Kerala,Noida,Private,243,21,67,D1808,Dr_Name_1808,Pediatrician,5
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D0165,Dr_Name_165,General Physician,24
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D0688,Dr_Name_688,Oncologist,22
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D0930,Dr_Name_930,Gastroenterologist,10
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D1045,Dr_Name_1045,Neurologist,28
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D1190,Dr_Name_1190,Neurologist,5
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D1232,Dr_Name_1232,Cardiologist,17
+H156,Hospital_156,Delhi,Ahmedabad,Government,984,63,105,D1544,Dr_Name_1544,Cardiologist,7
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D0027,Dr_Name_27,Oncologist,24
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D0031,Dr_Name_31,Oncologist,25
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D0055,Dr_Name_55,Cardiologist,10
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D0058,Dr_Name_58,Pediatrician,3
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D0210,Dr_Name_210,Oncologist,14
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D0735,Dr_Name_735,Pediatrician,5
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D1095,Dr_Name_1095,Neurologist,26
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D1231,Dr_Name_1231,Oncologist,26
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D1608,Dr_Name_1608,General Physician,6
+H157,Hospital_157,Gujarat,New Delhi,Government,1192,142,77,D1781,Dr_Name_1781,Gastroenterologist,22
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0188,Dr_Name_188,General Physician,16
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0288,Dr_Name_288,Neurologist,17
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0480,Dr_Name_480,Orthopedic Surgeon,9
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0497,Dr_Name_497,Orthopedic Surgeon,19
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0508,Dr_Name_508,Pulmonologist,15
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0661,Dr_Name_661,Neurologist,29
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0684,Dr_Name_684,Neurologist,2
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D0849,Dr_Name_849,Neurologist,8
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1106,Dr_Name_1106,Oncologist,15
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1238,Dr_Name_1238,Orthopedic Surgeon,19
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1399,Dr_Name_1399,Gastroenterologist,29
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1463,Dr_Name_1463,Neurologist,28
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1464,Dr_Name_1464,Neurologist,6
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1730,Dr_Name_1730,Orthopedic Surgeon,16
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1864,Dr_Name_1864,Gastroenterologist,7
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1965,Dr_Name_1965,Pediatrician,2
+H158,Hospital_158,Delhi,Noida,Government,1222,66,21,D1969,Dr_Name_1969,Pulmonologist,24
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D0049,Dr_Name_49,General Physician,27
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D0452,Dr_Name_452,Oncologist,11
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D0663,Dr_Name_663,Cardiologist,3
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D0941,Dr_Name_941,Neurologist,4
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D1141,Dr_Name_1141,Oncologist,12
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D1253,Dr_Name_1253,Orthopedic Surgeon,12
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D1537,Dr_Name_1537,General Physician,3
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D1664,Dr_Name_1664,Pulmonologist,3
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D1867,Dr_Name_1867,Pediatrician,24
+H159,Hospital_159,Telangana,Hyderabad,Government,495,154,13,D1881,Dr_Name_1881,Cardiologist,10
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0484,Dr_Name_484,Pulmonologist,19
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0574,Dr_Name_574,Cardiologist,28
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0658,Dr_Name_658,Pulmonologist,5
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0722,Dr_Name_722,General Physician,6
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0837,Dr_Name_837,Oncologist,6
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0845,Dr_Name_845,Oncologist,8
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D0876,Dr_Name_876,Neurologist,10
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1319,Dr_Name_1319,Oncologist,20
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1367,Dr_Name_1367,Pulmonologist,11
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1522,Dr_Name_1522,Cardiologist,16
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1592,Dr_Name_1592,Pediatrician,16
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1644,Dr_Name_1644,Neurologist,13
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1711,Dr_Name_1711,General Physician,8
+H160,Hospital_160,Maharashtra,Bangalore,Government,1148,121,147,D1999,Dr_Name_1999,Cardiologist,7
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D0159,Dr_Name_159,Orthopedic Surgeon,29
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D0255,Dr_Name_255,Gastroenterologist,15
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D0471,Dr_Name_471,Gastroenterologist,29
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D0843,Dr_Name_843,Oncologist,8
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D0850,Dr_Name_850,Pulmonologist,29
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1064,Dr_Name_1064,General Physician,12
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1134,Dr_Name_1134,Gastroenterologist,8
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1170,Dr_Name_1170,Pulmonologist,11
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1310,Dr_Name_1310,General Physician,16
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1428,Dr_Name_1428,Cardiologist,17
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1899,Dr_Name_1899,Cardiologist,8
+H161,Hospital_161,Gujarat,Mumbai,Government,1047,56,42,D1994,Dr_Name_1994,Pediatrician,4
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D0144,Dr_Name_144,Gastroenterologist,17
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D0217,Dr_Name_217,Pulmonologist,27
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D0237,Dr_Name_237,General Physician,18
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D0764,Dr_Name_764,Pediatrician,19
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D0963,Dr_Name_963,Orthopedic Surgeon,23
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D1530,Dr_Name_1530,General Physician,16
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D1822,Dr_Name_1822,Cardiologist,10
+H162,Hospital_162,Telangana,Hyderabad,Private,990,160,98,D1863,Dr_Name_1863,Orthopedic Surgeon,10
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D0568,Dr_Name_568,Pediatrician,12
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D0682,Dr_Name_682,Pediatrician,6
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D0766,Dr_Name_766,Cardiologist,12
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1005,Dr_Name_1005,Oncologist,19
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1317,Dr_Name_1317,Pediatrician,21
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1449,Dr_Name_1449,Cardiologist,14
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1474,Dr_Name_1474,Orthopedic Surgeon,5
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1478,Dr_Name_1478,Pulmonologist,6
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1948,Dr_Name_1948,Neurologist,29
+H163,Hospital_163,Uttar Pradesh,Hyderabad,Private,1274,94,99,D1972,Dr_Name_1972,Neurologist,13
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0030,Dr_Name_30,Cardiologist,9
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0067,Dr_Name_67,Pediatrician,11
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0117,Dr_Name_117,General Physician,27
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0358,Dr_Name_358,Neurologist,13
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0712,Dr_Name_712,Oncologist,27
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0958,Dr_Name_958,Pulmonologist,24
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D0964,Dr_Name_964,General Physician,17
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1010,Dr_Name_1010,Gastroenterologist,16
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1237,Dr_Name_1237,General Physician,14
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1304,Dr_Name_1304,Gastroenterologist,12
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1350,Dr_Name_1350,General Physician,27
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1486,Dr_Name_1486,Neurologist,14
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1561,Dr_Name_1561,Oncologist,18
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1593,Dr_Name_1593,General Physician,24
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1704,Dr_Name_1704,Gastroenterologist,22
+H164,Hospital_164,Maharashtra,New Delhi,Private,1267,151,53,D1814,Dr_Name_1814,Orthopedic Surgeon,2
+H165,Hospital_165,Delhi,Ahmedabad,Government,668,75,73,D0247,Dr_Name_247,Cardiologist,6
+H165,Hospital_165,Delhi,Ahmedabad,Government,668,75,73,D0319,Dr_Name_319,Orthopedic Surgeon,14
+H165,Hospital_165,Delhi,Ahmedabad,Government,668,75,73,D1038,Dr_Name_1038,Oncologist,27
+H165,Hospital_165,Delhi,Ahmedabad,Government,668,75,73,D1040,Dr_Name_1040,Gastroenterologist,6
+H165,Hospital_165,Delhi,Ahmedabad,Government,668,75,73,D1772,Dr_Name_1772,Pulmonologist,5
+H165,Hospital_165,Delhi,Ahmedabad,Government,668,75,73,D1936,Dr_Name_1936,Neurologist,2
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0003,Dr_Name_3,Gastroenterologist,9
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0204,Dr_Name_204,Gastroenterologist,6
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0279,Dr_Name_279,Neurologist,18
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0316,Dr_Name_316,General Physician,25
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0648,Dr_Name_648,Orthopedic Surgeon,24
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0762,Dr_Name_762,Orthopedic Surgeon,27
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0804,Dr_Name_804,Neurologist,8
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0821,Dr_Name_821,Pulmonologist,11
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0857,Dr_Name_857,Oncologist,16
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D0990,Dr_Name_990,Orthopedic Surgeon,13
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D1459,Dr_Name_1459,General Physician,17
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D1563,Dr_Name_1563,Oncologist,21
+H166,Hospital_166,Telangana,Ahmedabad,Government,1162,84,66,D1609,Dr_Name_1609,Gastroenterologist,3
+H167,Hospital_167,Uttar Pradesh,Chennai,Government,208,188,82,D0446,Dr_Name_446,Gastroenterologist,17
+H167,Hospital_167,Uttar Pradesh,Chennai,Government,208,188,82,D1300,Dr_Name_1300,General Physician,2
+H167,Hospital_167,Uttar Pradesh,Chennai,Government,208,188,82,D1336,Dr_Name_1336,Cardiologist,25
+H167,Hospital_167,Uttar Pradesh,Chennai,Government,208,188,82,D1346,Dr_Name_1346,Neurologist,12
+H167,Hospital_167,Uttar Pradesh,Chennai,Government,208,188,82,D1585,Dr_Name_1585,Cardiologist,8
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D0125,Dr_Name_125,Neurologist,1
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D0194,Dr_Name_194,Pediatrician,3
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D0331,Dr_Name_331,General Physician,17
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D0461,Dr_Name_461,Cardiologist,26
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D0632,Dr_Name_632,Orthopedic Surgeon,26
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D0844,Dr_Name_844,Pediatrician,12
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D1008,Dr_Name_1008,Pulmonologist,25
+H168,Hospital_168,Gujarat,New Delhi,Government,1165,112,121,D1721,Dr_Name_1721,Gastroenterologist,17
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D0135,Dr_Name_135,Orthopedic Surgeon,10
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D0553,Dr_Name_553,Gastroenterologist,4
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D0638,Dr_Name_638,General Physician,22
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D0827,Dr_Name_827,Neurologist,6
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1135,Dr_Name_1135,Pulmonologist,19
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1337,Dr_Name_1337,Neurologist,21
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1357,Dr_Name_1357,Gastroenterologist,23
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1496,Dr_Name_1496,Oncologist,3
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1620,Dr_Name_1620,Neurologist,3
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1697,Dr_Name_1697,Oncologist,16
+H169,Hospital_169,Gujarat,Bangalore,Private,1309,175,124,D1810,Dr_Name_1810,Neurologist,26
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D0473,Dr_Name_473,Orthopedic Surgeon,22
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D0478,Dr_Name_478,General Physician,19
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D0594,Dr_Name_594,Cardiologist,11
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D0644,Dr_Name_644,Pulmonologist,4
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D0656,Dr_Name_656,Neurologist,8
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D0967,Dr_Name_967,Neurologist,10
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D1257,Dr_Name_1257,Neurologist,18
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D1287,Dr_Name_1287,Orthopedic Surgeon,3
+H170,Hospital_170,Tamil Nadu,Ahmedabad,Private,1034,47,141,D1929,Dr_Name_1929,Cardiologist,10
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D0092,Dr_Name_92,Gastroenterologist,10
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D0148,Dr_Name_148,Gastroenterologist,22
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D0383,Dr_Name_383,General Physician,10
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D0460,Dr_Name_460,Oncologist,11
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D0527,Dr_Name_527,Neurologist,3
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D1030,Dr_Name_1030,Cardiologist,14
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D1076,Dr_Name_1076,Gastroenterologist,22
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D1105,Dr_Name_1105,Orthopedic Surgeon,26
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D1207,Dr_Name_1207,Pediatrician,7
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D1451,Dr_Name_1451,Neurologist,15
+H171,Hospital_171,Uttar Pradesh,Mumbai,Government,497,59,80,D1771,Dr_Name_1771,Cardiologist,18
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D0282,Dr_Name_282,Gastroenterologist,6
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D0391,Dr_Name_391,General Physician,28
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D0789,Dr_Name_789,Neurologist,5
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D0865,Dr_Name_865,General Physician,24
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D0983,Dr_Name_983,Neurologist,17
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1079,Dr_Name_1079,Pulmonologist,13
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1173,Dr_Name_1173,Pulmonologist,19
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1268,Dr_Name_1268,Cardiologist,23
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1365,Dr_Name_1365,Pediatrician,8
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1380,Dr_Name_1380,Cardiologist,5
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1645,Dr_Name_1645,Neurologist,24
+H172,Hospital_172,Kerala,Noida,Private,1346,107,39,D1731,Dr_Name_1731,Neurologist,4
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D0062,Dr_Name_62,Cardiologist,24
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D0191,Dr_Name_191,Oncologist,11
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D0337,Dr_Name_337,General Physician,13
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D0505,Dr_Name_505,Neurologist,25
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D0912,Dr_Name_912,Oncologist,5
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1270,Dr_Name_1270,Pulmonologist,13
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1461,Dr_Name_1461,Orthopedic Surgeon,24
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1507,Dr_Name_1507,Pediatrician,24
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1591,Dr_Name_1591,Oncologist,6
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1642,Dr_Name_1642,Oncologist,28
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1849,Dr_Name_1849,Oncologist,4
+H173,Hospital_173,Karnataka,New Delhi,Private,733,91,5,D1886,Dr_Name_1886,General Physician,17
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D0726,Dr_Name_726,Orthopedic Surgeon,17
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D0776,Dr_Name_776,General Physician,11
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D0783,Dr_Name_783,Pulmonologist,18
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D0860,Dr_Name_860,General Physician,7
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D1181,Dr_Name_1181,Gastroenterologist,21
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D1734,Dr_Name_1734,Neurologist,29
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D1845,Dr_Name_1845,Orthopedic Surgeon,1
+H174,Hospital_174,Maharashtra,Noida,Government,1256,39,44,D1956,Dr_Name_1956,Orthopedic Surgeon,24
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D0128,Dr_Name_128,Cardiologist,4
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D0200,Dr_Name_200,General Physician,16
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D0710,Dr_Name_710,Orthopedic Surgeon,20
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D0740,Dr_Name_740,Orthopedic Surgeon,25
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D1039,Dr_Name_1039,General Physician,6
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D1100,Dr_Name_1100,Pediatrician,23
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D1307,Dr_Name_1307,Cardiologist,23
+H175,Hospital_175,Uttar Pradesh,Hyderabad,Private,1286,88,68,D1743,Dr_Name_1743,Oncologist,13
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D0251,Dr_Name_251,General Physician,18
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D0441,Dr_Name_441,Gastroenterologist,26
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D0514,Dr_Name_514,Cardiologist,18
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D0605,Dr_Name_605,Oncologist,12
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D0611,Dr_Name_611,General Physician,17
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D0805,Dr_Name_805,Oncologist,12
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D1137,Dr_Name_1137,Pulmonologist,15
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D1201,Dr_Name_1201,Pulmonologist,17
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D1314,Dr_Name_1314,Cardiologist,2
+H176,Hospital_176,Tamil Nadu,Mumbai,Government,1338,100,64,D1885,Dr_Name_1885,General Physician,2
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D0160,Dr_Name_160,Gastroenterologist,27
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D0172,Dr_Name_172,Neurologist,18
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D0503,Dr_Name_503,General Physician,12
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D0561,Dr_Name_561,Oncologist,7
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D0954,Dr_Name_954,Neurologist,6
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D1241,Dr_Name_1241,Cardiologist,3
+H177,Hospital_177,Karnataka,Mumbai,Private,832,188,68,D1636,Dr_Name_1636,Oncologist,15
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D0222,Dr_Name_222,Neurologist,10
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D0569,Dr_Name_569,Cardiologist,29
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D0881,Dr_Name_881,Neurologist,8
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D1077,Dr_Name_1077,Cardiologist,4
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D1088,Dr_Name_1088,Oncologist,4
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D1536,Dr_Name_1536,Neurologist,2
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D1564,Dr_Name_1564,Pulmonologist,29
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D1689,Dr_Name_1689,Gastroenterologist,26
+H178,Hospital_178,Karnataka,Hyderabad,Government,334,61,97,D1993,Dr_Name_1993,General Physician,5
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0001,Dr_Name_1,Gastroenterologist,18
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0014,Dr_Name_14,Pulmonologist,20
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0016,Dr_Name_16,Pulmonologist,7
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0021,Dr_Name_21,Oncologist,19
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0151,Dr_Name_151,Cardiologist,20
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0183,Dr_Name_183,Orthopedic Surgeon,1
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0205,Dr_Name_205,Cardiologist,19
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0392,Dr_Name_392,Orthopedic Surgeon,11
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0723,Dr_Name_723,General Physician,14
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0830,Dr_Name_830,General Physician,24
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D0955,Dr_Name_955,Oncologist,10
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D1065,Dr_Name_1065,Oncologist,17
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D1656,Dr_Name_1656,General Physician,9
+H179,Hospital_179,Telangana,New Delhi,Government,757,175,76,D1733,Dr_Name_1733,Cardiologist,22
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D0052,Dr_Name_52,Cardiologist,7
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D0131,Dr_Name_131,Neurologist,9
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D0156,Dr_Name_156,Orthopedic Surgeon,15
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D0713,Dr_Name_713,Pediatrician,21
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D1442,Dr_Name_1442,Neurologist,6
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D1469,Dr_Name_1469,Pediatrician,23
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D1494,Dr_Name_1494,Orthopedic Surgeon,15
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D1607,Dr_Name_1607,Pulmonologist,24
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D1667,Dr_Name_1667,General Physician,21
+H180,Hospital_180,Karnataka,Hyderabad,Government,850,88,15,D1763,Dr_Name_1763,Cardiologist,29
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D0349,Dr_Name_349,Pulmonologist,16
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D0516,Dr_Name_516,Orthopedic Surgeon,13
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D0643,Dr_Name_643,General Physician,15
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D0660,Dr_Name_660,Pulmonologist,6
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D0790,Dr_Name_790,Neurologist,23
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D1068,Dr_Name_1068,Pulmonologist,5
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D1589,Dr_Name_1589,Pulmonologist,10
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D1710,Dr_Name_1710,Pulmonologist,15
+H181,Hospital_181,Kerala,Noida,Government,687,39,109,D1823,Dr_Name_1823,Gastroenterologist,3
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D0118,Dr_Name_118,Pulmonologist,24
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D0122,Dr_Name_122,Cardiologist,25
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D0152,Dr_Name_152,General Physician,27
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D0248,Dr_Name_248,Neurologist,26
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D0934,Dr_Name_934,Gastroenterologist,4
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D1955,Dr_Name_1955,General Physician,7
+H182,Hospital_182,Gujarat,Chennai,Private,1132,115,18,D1979,Dr_Name_1979,Cardiologist,24
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D0036,Dr_Name_36,General Physician,17
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D0462,Dr_Name_462,Oncologist,28
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D0916,Dr_Name_916,General Physician,25
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1305,Dr_Name_1305,Pediatrician,23
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1576,Dr_Name_1576,Gastroenterologist,14
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1599,Dr_Name_1599,General Physician,17
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1723,Dr_Name_1723,Pediatrician,17
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1888,Dr_Name_1888,Neurologist,2
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1890,Dr_Name_1890,Orthopedic Surgeon,22
+H183,Hospital_183,Tamil Nadu,Mumbai,Government,1197,60,64,D1973,Dr_Name_1973,Neurologist,4
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D0053,Dr_Name_53,Orthopedic Surgeon,27
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D0185,Dr_Name_185,Gastroenterologist,14
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D0494,Dr_Name_494,Oncologist,25
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D0531,Dr_Name_531,Pulmonologist,27
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D0586,Dr_Name_586,Neurologist,5
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D0747,Dr_Name_747,Oncologist,10
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D1009,Dr_Name_1009,Cardiologist,3
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D1075,Dr_Name_1075,Pulmonologist,7
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D1260,Dr_Name_1260,Pulmonologist,12
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D1775,Dr_Name_1775,Orthopedic Surgeon,13
+H184,Hospital_184,Karnataka,Kochi,Government,1053,90,34,D1985,Dr_Name_1985,Oncologist,18
+H185,Hospital_185,Telangana,Kochi,Government,591,142,39,D0033,Dr_Name_33,Cardiologist,26
+H185,Hospital_185,Telangana,Kochi,Government,591,142,39,D0492,Dr_Name_492,General Physician,21
+H185,Hospital_185,Telangana,Kochi,Government,591,142,39,D0756,Dr_Name_756,General Physician,11
+H185,Hospital_185,Telangana,Kochi,Government,591,142,39,D1073,Dr_Name_1073,Pediatrician,26
+H185,Hospital_185,Telangana,Kochi,Government,591,142,39,D1324,Dr_Name_1324,Pediatrician,29
+H185,Hospital_185,Telangana,Kochi,Government,591,142,39,D1990,Dr_Name_1990,Cardiologist,27
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D0303,Dr_Name_303,Orthopedic Surgeon,4
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D0621,Dr_Name_621,Orthopedic Surgeon,6
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D0942,Dr_Name_942,Cardiologist,18
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D0969,Dr_Name_969,Orthopedic Surgeon,23
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D1390,Dr_Name_1390,Neurologist,28
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D1672,Dr_Name_1672,Neurologist,23
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D1791,Dr_Name_1791,General Physician,19
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D1831,Dr_Name_1831,Pulmonologist,20
+H186,Hospital_186,Kerala,Noida,Private,1012,38,9,D1858,Dr_Name_1858,Cardiologist,28
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0149,Dr_Name_149,General Physician,18
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0229,Dr_Name_229,General Physician,7
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0360,Dr_Name_360,Pediatrician,20
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0399,Dr_Name_399,Gastroenterologist,22
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0448,Dr_Name_448,Pulmonologist,21
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0524,Dr_Name_524,General Physician,29
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0600,Dr_Name_600,Gastroenterologist,25
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D0752,Dr_Name_752,General Physician,16
+H187,Hospital_187,Delhi,Bangalore,Government,1376,141,87,D1634,Dr_Name_1634,Gastroenterologist,19
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0264,Dr_Name_264,Oncologist,4
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0455,Dr_Name_455,Oncologist,29
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0649,Dr_Name_649,Pulmonologist,20
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0678,Dr_Name_678,Gastroenterologist,29
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0806,Dr_Name_806,Orthopedic Surgeon,22
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0899,Dr_Name_899,Pediatrician,18
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D0951,Dr_Name_951,Neurologist,28
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1339,Dr_Name_1339,Pediatrician,25
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1363,Dr_Name_1363,General Physician,20
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1508,Dr_Name_1508,Pulmonologist,29
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1594,Dr_Name_1594,Cardiologist,27
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1629,Dr_Name_1629,Orthopedic Surgeon,27
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1639,Dr_Name_1639,Neurologist,20
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1847,Dr_Name_1847,Neurologist,23
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1868,Dr_Name_1868,Cardiologist,4
+H188,Hospital_188,Gujarat,Ahmedabad,Private,1353,147,127,D1959,Dr_Name_1959,Pediatrician,14
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D0177,Dr_Name_177,Neurologist,17
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D0401,Dr_Name_401,Oncologist,28
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D0765,Dr_Name_765,Neurologist,21
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D0932,Dr_Name_932,General Physician,28
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D0943,Dr_Name_943,Pediatrician,6
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D1049,Dr_Name_1049,Orthopedic Surgeon,2
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D1258,Dr_Name_1258,Orthopedic Surgeon,4
+H189,Hospital_189,Gujarat,Hyderabad,Government,1297,193,82,D1773,Dr_Name_1773,Gastroenterologist,22
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D0088,Dr_Name_88,Gastroenterologist,3
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D0340,Dr_Name_340,Pulmonologist,22
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D0374,Dr_Name_374,Gastroenterologist,22
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D0490,Dr_Name_490,Neurologist,3
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D0511,Dr_Name_511,Neurologist,25
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D1128,Dr_Name_1128,Pulmonologist,11
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D1398,Dr_Name_1398,Cardiologist,29
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D1443,Dr_Name_1443,Pulmonologist,17
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D1545,Dr_Name_1545,General Physician,13
+H190,Hospital_190,Tamil Nadu,Hyderabad,Private,1291,154,66,D1700,Dr_Name_1700,Orthopedic Surgeon,28
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D0646,Dr_Name_646,Orthopedic Surgeon,23
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D0935,Dr_Name_935,Pediatrician,29
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D1255,Dr_Name_1255,Gastroenterologist,24
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D1520,Dr_Name_1520,Neurologist,14
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D1567,Dr_Name_1567,Neurologist,2
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D1596,Dr_Name_1596,Pulmonologist,10
+H191,Hospital_191,Gujarat,Bangalore,Private,269,83,136,D1777,Dr_Name_1777,Oncologist,23
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D0024,Dr_Name_24,Neurologist,24
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D0679,Dr_Name_679,Pulmonologist,7
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D0697,Dr_Name_697,Cardiologist,27
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D0709,Dr_Name_709,Oncologist,3
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D0788,Dr_Name_788,Neurologist,12
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D1130,Dr_Name_1130,Gastroenterologist,21
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D1616,Dr_Name_1616,Oncologist,11
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D1883,Dr_Name_1883,Pediatrician,17
+H192,Hospital_192,Karnataka,Bangalore,Government,1045,26,93,D1940,Dr_Name_1940,Oncologist,4
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D0347,Dr_Name_347,Neurologist,12
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D0515,Dr_Name_515,Gastroenterologist,2
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D0704,Dr_Name_704,Pediatrician,15
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D1007,Dr_Name_1007,General Physician,7
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D1102,Dr_Name_1102,Neurologist,8
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D1439,Dr_Name_1439,Pediatrician,26
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D1646,Dr_Name_1646,Cardiologist,16
+H193,Hospital_193,Telangana,Noida,Private,894,93,46,D1798,Dr_Name_1798,Pulmonologist,25
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0010,Dr_Name_10,Gastroenterologist,7
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0201,Dr_Name_201,Neurologist,23
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0297,Dr_Name_297,Pulmonologist,20
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0377,Dr_Name_377,Pediatrician,17
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0476,Dr_Name_476,General Physician,19
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0670,Dr_Name_670,Neurologist,16
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D0856,Dr_Name_856,Cardiologist,23
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D1129,Dr_Name_1129,General Physician,21
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D1180,Dr_Name_1180,Pulmonologist,29
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D1188,Dr_Name_1188,Oncologist,18
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D1482,Dr_Name_1482,Oncologist,4
+H194,Hospital_194,Gujarat,Noida,Government,733,78,93,D1688,Dr_Name_1688,Neurologist,27
+H195,Hospital_195,Gujarat,Bangalore,Government,1317,43,44,D0273,Dr_Name_273,Pulmonologist,15
+H195,Hospital_195,Gujarat,Bangalore,Government,1317,43,44,D0591,Dr_Name_591,Orthopedic Surgeon,10
+H195,Hospital_195,Gujarat,Bangalore,Government,1317,43,44,D0744,Dr_Name_744,Oncologist,19
+H195,Hospital_195,Gujarat,Bangalore,Government,1317,43,44,D0869,Dr_Name_869,Orthopedic Surgeon,23
+H195,Hospital_195,Gujarat,Bangalore,Government,1317,43,44,D1017,Dr_Name_1017,Neurologist,25
+H195,Hospital_195,Gujarat,Bangalore,Government,1317,43,44,D1690,Dr_Name_1690,Neurologist,16
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D0038,Dr_Name_38,Pulmonologist,6
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D0246,Dr_Name_246,General Physician,28
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D0522,Dr_Name_522,Cardiologist,27
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D0693,Dr_Name_693,Pediatrician,20
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1117,Dr_Name_1117,Neurologist,2
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1227,Dr_Name_1227,Oncologist,4
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1263,Dr_Name_1263,Neurologist,15
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1358,Dr_Name_1358,Orthopedic Surgeon,3
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1446,Dr_Name_1446,Pulmonologist,13
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1503,Dr_Name_1503,Pediatrician,26
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1602,Dr_Name_1602,Pulmonologist,17
+H196,Hospital_196,Delhi,Mumbai,Government,128,15,76,D1992,Dr_Name_1992,Cardiologist,27
+H197,Hospital_197,Delhi,Noida,Private,1288,62,43,D0269,Dr_Name_269,Cardiologist,22
+H197,Hospital_197,Delhi,Noida,Private,1288,62,43,D0613,Dr_Name_613,Oncologist,2
+H197,Hospital_197,Delhi,Noida,Private,1288,62,43,D0757,Dr_Name_757,Pulmonologist,14
+H197,Hospital_197,Delhi,Noida,Private,1288,62,43,D1392,Dr_Name_1392,General Physician,12
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D0017,Dr_Name_17,Oncologist,15
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D0157,Dr_Name_157,Cardiologist,15
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D0415,Dr_Name_415,Oncologist,10
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D0529,Dr_Name_529,Neurologist,14
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D0608,Dr_Name_608,Oncologist,11
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D0921,Dr_Name_921,Cardiologist,24
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1061,Dr_Name_1061,Gastroenterologist,10
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1131,Dr_Name_1131,Pediatrician,16
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1149,Dr_Name_1149,Neurologist,22
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1189,Dr_Name_1189,General Physician,6
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1424,Dr_Name_1424,Pulmonologist,22
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1901,Dr_Name_1901,Pulmonologist,13
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1906,Dr_Name_1906,Gastroenterologist,15
+H198,Hospital_198,Maharashtra,Chennai,Private,438,135,108,D1924,Dr_Name_1924,Neurologist,8
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0155,Dr_Name_155,Gastroenterologist,28
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0168,Dr_Name_168,General Physician,11
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0335,Dr_Name_335,Cardiologist,6
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0429,Dr_Name_429,Oncologist,16
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0539,Dr_Name_539,Pediatrician,11
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0685,Dr_Name_685,Neurologist,8
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0785,Dr_Name_785,Pediatrician,23
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D0799,Dr_Name_799,Neurologist,1
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D1159,Dr_Name_1159,Gastroenterologist,12
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D1164,Dr_Name_1164,General Physician,25
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D1318,Dr_Name_1318,Pulmonologist,25
+H199,Hospital_199,Kerala,Noida,Government,1488,52,18,D1573,Dr_Name_1573,Gastroenterologist,24
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D0022,Dr_Name_22,Gastroenterologist,22
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D0079,Dr_Name_79,General Physician,12
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D0416,Dr_Name_416,Neurologist,1
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D1177,Dr_Name_1177,Cardiologist,17
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D1370,Dr_Name_1370,Pediatrician,26
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D1426,Dr_Name_1426,Pulmonologist,21
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D1635,Dr_Name_1635,Cardiologist,29
+H200,Hospital_200,Karnataka,Hyderabad,Government,1465,124,36,D1651,Dr_Name_1651,Cardiologist,10
