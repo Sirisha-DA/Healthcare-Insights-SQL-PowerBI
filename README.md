@@ -49,5 +49,4 @@ The project includes "data cleaning, SQL transformations, DAX calculations, and 
 
 
 
-## 📁 Project Structure
 
